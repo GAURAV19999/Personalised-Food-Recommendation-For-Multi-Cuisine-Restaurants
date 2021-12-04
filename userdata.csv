@@ -1,0 +1,2103 @@
+UserID,Order,PlaceID,OrderType,Rating,food_rating,service_rating,Upayment,Budget
+1001,Bubble and Squeak,132825,Breakfast,2,2,1,cash,medium
+1002,Breakfast Burritos,132825,Breakfast,2,2,0,cash,low
+1003,Spanish Potato Omelet (Tortilla a la Espanola),132825,Breakfast,2,2,1,cash,low
+1006,Scrambled Tofu on Toast,132825,Breakfast,1,1,1,cash,medium
+1009,Baked Zucchini Frittatas,132825,Breakfast,1,1,0,cash,medium
+1009,Zucchini Frittatas II,132825,Breakfast,1,1,0,cash,medium
+1009,Yellow Squash Frittata,132825,Breakfast,1,1,0,cash,medium
+1009,Basic Crepes II,132825,Breakfast,1,1,0,cash,medium
+1009,Basic Crepes,132825,Breakfast,1,1,0,cash,medium
+1009,Butter Crepes,132825,Breakfast,1,1,0,cash,medium
+1009,Spicy Hash Browns - Homemade,132825,Breakfast,1,1,0,cash,medium
+1029,Baked Breakfast Potatoes,132825,Breakfast,1,1,0,cash,low
+1036,Bacon and Potato Pie,132825,Breakfast,2,2,2,cash,medium
+1045,Country Brunch Skillet,132825,Breakfast,2,1,1,cash,high
+1045,Austrian Sweet Cheese Crepes Baked in Custard,132825,Breakfast,2,1,1,cash,high
+1045,Whole Grain Buttermilk Pancakes,132825,Breakfast,2,1,1,cash,high
+1045,Homemade Pop-Tarts,132825,Breakfast,2,1,1,cash,high
+1049,Spicy Bacon &amp; Tomato Brunch,132825,Breakfast,0,0,0,cash,high
+1053,Breakfast Pizza II,132825,Breakfast,1,2,0,cash,low
+1055,Potato Pancakes,132825,Breakfast,2,2,2,cash,medium
+1056,Oatmeal Pancakes,132825,Breakfast,2,2,2,cash,medium
+1057,Pig in the Blankets,132825,Breakfast,1,1,0,cash,medium
+1057,Mc Donald's Pancakes,132825,Breakfast,1,1,0,VISA,medium
+1059,Chicken Fritada,132825,Breakfast,2,1,1,cash,medium
+1061,Philadelphia Scrapple,132825,Breakfast,1,2,1,cash,medium
+1061,Brunch Eggs,132825,Breakfast,1,2,1,bank_debit_cards,medium
+1062,Breakfast Souffle,132825,Breakfast,0,0,0,VISA,medium
+1062,Hash Browns Casserole,132825,Breakfast,0,0,0,cash,medium
+1071,Hash Browns Casserole II,132825,Breakfast,2,2,2,cash,high
+1077,Baked French Toast,132825,Breakfast,2,2,2,VISA,medium
+1077,Breakfast Frittata,132825,Breakfast,2,2,2,cash,medium
+1077,French Toast,132825,Breakfast,2,2,2,bank_debit_cards,medium
+1081,French Toast II,132825,Breakfast,1,0,1,cash,low
+1085,Chocolate-Pistachio French Toast,132825,Breakfast,2,2,2,cash,high
+1091,Breakfast Sausage Rolls,132825,Breakfast,0,1,1,cash,low
+1091,Breakfast Pudding,132825,Breakfast,0,1,1,cash,low
+1098,Low-Fat Breakfast Brulee,132825,Breakfast,1,1,1,cash,medium
+1104,Breakfast Sausage Gravy,132825,Breakfast,1,2,1,VISA,medium
+1104,South Carolina Scrapple,132825,Breakfast,1,2,1,cash,medium
+1109,Blueberry Overnight French Toast,132825,Breakfast,2,2,2,cash,low
+1114,Old-Fashioned Scrapple,132825,Breakfast,0,0,0,cash,medium
+1116,Scrapple,132825,Breakfast,2,2,2,cash,medium
+1116,Farm-Style Sausage Patties,132825,Breakfast,2,2,2,bank_debit_cards,medium
+1116,Breakfast Sausage,132825,Breakfast,2,2,2,VISA,medium
+1132,Tomato Scrapple,132825,Breakfast,2,2,2,cash,high
+1134,Potato Pancakes II,132825,Breakfast,1,2,1,cash,medium
+1135,Potato Pancakes - German Style,132825,Breakfast,0,0,0,cash,low
+1135,My Italian Sausages,132825,Breakfast,0,0,0,cash,low
+1135,Italian Sausage Sweet,132825,Breakfast,0,0,0,cash,low
+1135,Italian Sausage Sweet II,132825,Breakfast,0,0,0,cash,low
+1135,Crepes Suzette,132825,Breakfast,0,0,0,cash,low
+1135,Tjock Pan Kaka (Swedish Thick Pancake),132825,Breakfast,0,0,0,cash,low
+1135,Egg-White French Toast,132825,Breakfast,0,0,0,cash,low
+1135,Crepes Suzette II,132825,Breakfast,0,0,0,cash,low
+1135,Potato Cakes IV,132825,Breakfast,0,0,0,cash,low
+1135,Banana-Raisin French Toast,132825,Breakfast,0,0,0,cash,low
+1135,Hot Norwegian Fruit Soup,132825,Breakfast,0,0,0,cash,low
+1135,Christmas Morning Sausage Ring,132825,Breakfast,0,0,0,cash,low
+1135,Potato Korv,132825,Breakfast,0,0,0,cash,low
+1135,Pete's Scratch Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Speciality Popover,132825,Breakfast,0,0,0,cash,low
+1135,Cinnamon French Toast,132825,Breakfast,0,0,0,cash,low
+1135,Eggnog Pancakes with Cranberry Sauce,132825,Breakfast,0,0,0,cash,low
+1135,Cinnamon Apple Waffles,132825,Breakfast,0,0,0,cash,low
+1135,Small Vegetable Cheese Strata,132825,Breakfast,0,0,0,cash,low
+1135,Large Vegetable and Cheese Strata,132825,Breakfast,0,0,0,cash,low
+1135,Monte Cristo Sandwich,132825,Breakfast,0,0,0,cash,low
+1135,Solo Cheddar Puff Cake,132825,Breakfast,0,0,0,cash,low
+1135,Kartoffelpfannkuchen (Potato Pancakes),132825,Breakfast,0,0,0,cash,low
+1135,Fladle Uberbacken (Swabian Pancakes),132825,Breakfast,0,0,0,cash,low
+1135,Apple Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,French Toast Cheddar Sandwiches,132825,Breakfast,0,0,0,cash,low
+1135,Cheddar Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Farmers Breakfast,132825,Breakfast,0,0,0,cash,low
+1135,Breakfast Casserole (Pennsylvania Dutch,132825,Breakfast,0,0,0,cash,low
+1135,Sourdough Pancakes #1,132825,Breakfast,0,0,0,cash,low
+1135,Sourdough Pancakes #2,132825,Breakfast,0,0,0,cash,low
+1135,Sourdough Pancakes #3,132825,Breakfast,0,0,0,cash,low
+1135,Sourdough Pancakes #4,132825,Breakfast,0,0,0,cash,low
+1135,Sourdough Pancakes #5,132825,Breakfast,0,0,0,cash,low
+1135,Zucchini Frittata,132825,Breakfast,0,0,0,cash,low
+1135,Zucchini Frittata,132825,Breakfast,0,0,0,cash,low
+1135,Basic Breakfast Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Snail Omelette / Cagouilles En Omelette,132825,Breakfast,0,0,0,cash,low
+1135,Corned Beef Hash,132825,Breakfast,0,0,0,cash,low
+1135,Orange Marmalade,132825,Breakfast,0,0,0,cash,low
+1135,Potato Pancakes German Style,132825,Breakfast,0,0,0,cash,low
+1135,Vegetable Frittata,132825,Breakfast,0,0,0,cash,low
+1135,Frittata Ranchera,132825,Breakfast,0,0,0,cash,low
+1135,Pancakes With Mushrooms,132825,Breakfast,0,0,0,cash,low
+1135,Tofu and Scallions,132825,Breakfast,0,0,0,cash,low
+1135,Angel Hair Frittata,132825,Breakfast,0,0,0,cash,low
+1135,Snickers Bar   Ww,132825,Breakfast,0,0,0,cash,low
+1135,Lyra's Dutch Baby,132825,Breakfast,0,0,0,cash,low
+1135,Jarlsberg Oven Omelet,132825,Breakfast,0,0,0,cash,low
+1135,Best Waffles Ever,132825,Breakfast,0,0,0,cash,low
+1135,Potato Patties,132825,Breakfast,0,0,0,cash,low
+1135,Red Bliss & Rosemary Chicken Hash,132825,Breakfast,0,0,0,cash,low
+1135,Vegetable Puffs,132825,Breakfast,0,0,0,cash,low
+1135,Pumpkin Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Golden Pumpkin Waffles,132825,Breakfast,0,0,0,cash,low
+1135,Homer's Patented Space-Age Out of This World Moon Waffles,132825,Breakfast,0,0,0,cash,low
+1135,Methi Puri,132825,Breakfast,0,0,0,cash,low
+1135,Egg Bake,132825,Breakfast,0,0,0,cash,low
+1135,Mock Devonshire Cream,132825,Breakfast,0,0,0,cash,low
+1135,Leftover Mashed Potato Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Carrot Salad,132825,Breakfast,0,0,0,cash,low
+1135,Sour Cream and Spinach Omelette,132825,Breakfast,0,0,0,cash,low
+1135,Make Ahead Breakfast Casserole,132825,Breakfast,0,0,0,cash,low
+1135,Hawaiian Waffles with Pineapple & Coconut,132825,Breakfast,0,0,0,cash,low
+1135,Blueberry-Sour Cream Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Puff Oven Pancake,132825,Breakfast,0,0,0,cash,low
+1135,Saucy Eggs with English Muffins,132825,Breakfast,0,0,0,cash,low
+1135,Breakfast Apple-Citrus Compote,132825,Breakfast,0,0,0,cash,low
+1135,Jalapeno Cheese Grits,132825,Breakfast,0,0,0,cash,low
+1135,Mums 'scotch' Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Best Bacon/Cheese Grits,132825,Breakfast,0,0,0,cash,low
+1135,Awesome Layered Grits,132825,Breakfast,0,0,0,cash,low
+1135,Breakfast Burritos,132825,Breakfast,0,0,0,cash,low
+1135,Sweet Potato Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Yummy Light Scrambled Eggs,132825,Breakfast,0,0,0,cash,low
+1135,Country Breakfast Sausage,132825,Breakfast,0,0,0,cash,low
+1135,Cafe Maple Syrup,132825,Breakfast,0,0,0,cash,low
+1135,Cool N' Breezy Fruit Salad,132825,Breakfast,0,0,0,cash,low
+1135,Eggs Baked in Corned Beef Hash,132825,Breakfast,0,0,0,cash,low
+1135,Mandazi,132825,Breakfast,0,0,0,cash,low
+1135,Thin Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Breakfast Pie,132825,Breakfast,0,0,0,cash,low
+1135,Potato Latkes,132825,Breakfast,0,0,0,cash,low
+1135,Garden Vegetable Sandwich,132825,Breakfast,0,0,0,cash,low
+1135,No Fuss No Mess Potato Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Black Forest Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Vegetable Frittata With Roasted Tomato Salsa,132825,Breakfast,0,0,0,cash,low
+1135,Norwegian Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Melon and Peach Salad,132825,Breakfast,0,0,0,cash,low
+1135,Cookie Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Apple Pancake,132825,Breakfast,0,0,0,cash,low
+1135,Danish Breakfast for Two,132825,Breakfast,0,0,0,cash,low
+1135,Cottage Cheese Pancakes,132825,Breakfast,0,0,0,cash,low
+1135,Breakfast Sandwich,132825,Breakfast,0,0,0,cash,low
+1135,Breakfast Pie,132825,Breakfast,0,0,0,cash,low
+1135,Mangoes,132825,Breakfast,0,0,0,cash,low
+1135,"Bergy Dim Sum #1, Pork & Lettuce Rolls",132825,Breakfast,0,0,0,cash,low
+1135,Crunchy Salsa Sandwich,132825,Breakfast,0,0,0,cash,low
+1135,Bulgur-Herb Crostini,132825,Breakfast,0,0,0,cash,low
+1135,Latkes (Potato Pancakes),132825,Breakfast,0,0,0,cash,low
+1135,Sambuca Fruit Salad,132825,Breakfast,0,0,0,cash,low
+1135,Cooked Blueberries,132825,Breakfast,0,0,0,cash,low
+1135,Danish Omelet,132825,Breakfast,0,0,0,cash,low
+1137,Fried Corn,132825,Breakfast,2,2,1,cash,low
+1001,1 Minute Meatballs,135085,Breakfast,0,1,1,cash,medium
+1002,Grape Freezer Jam,135085,Breakfast,1,1,1,cash,low
+1007,Apple Butter,135085,Breakfast,1,2,0,cash,low
+1013,Oat and Walnut Pancakes,135085,Breakfast,1,2,0,MasterCard-Eurocard,medium
+1013,Herbed Home Fries,135085,Breakfast,1,2,0,cash,medium
+1016,basilic tomato and egg,135085,Breakfast,2,2,0,cash,medium
+1016,Lemon French Toast With Strawberry Sauce,135085,Breakfast,2,2,0,cash,medium
+1016,Tofu Scramble with Hollandaise Sauce,135085,Breakfast,2,2,0,cash,medium
+1016,Sizzling French Toast,135085,Breakfast,2,2,0,cash,medium
+1016,Gingerbread Waffles,135085,Breakfast,2,2,0,cash,medium
+1016,Spud Nuts,135085,Breakfast,2,2,0,cash,medium
+1016,Green & White Feta Ring (Spinach & Feta),135085,Breakfast,2,2,0,cash,medium
+1016,Cheese and Ham Pockets,135085,Breakfast,2,2,0,cash,medium
+1016,Sage Breakfast Sausage,135085,Breakfast,2,2,0,cash,medium
+1016,Cheese and Jalapeno Grits Casserole,135085,Breakfast,2,2,0,cash,medium
+1016,Breakfast Fruit Bowl,135085,Breakfast,2,2,0,cash,medium
+1016,Hash Browns Casserole,135085,Breakfast,2,2,0,cash,medium
+1016,Swiss Muesli,135085,Breakfast,2,2,0,cash,medium
+1016,Sweet Potato and Corn Fritters,135085,Breakfast,2,2,0,cash,medium
+1027,Ham and eggs - Schinken mit Ei,135085,Breakfast,1,1,1,cash,low
+1029,Cheese-Eggs with bacon and peppers,135085,Breakfast,1,1,1,cash,low
+1032,Granola,135085,Breakfast,1,1,1,cash,medium
+1033,Potato Egg Bake,135085,Breakfast,2,2,2,cash,low
+1036,Old Fashioned Baked Apples,135085,Breakfast,2,2,2,cash,medium
+1045,Crepes,135085,Breakfast,2,2,2,cash,high
+1045,Goldenrod Eggs,135085,Breakfast,2,2,2,cash,high
+1045,Orange French Toast II,135085,Breakfast,2,2,2,cash,high
+1045,Oatmeal Granola Bars,135085,Breakfast,2,2,2,cash,high
+1046,Georgia French Toast,135085,Breakfast,1,2,1,cash,medium
+1049,Tracy's Pancakes,135085,Breakfast,0,0,0,cash,high
+1056,Granola Bars,135085,Breakfast,2,2,2,cash,medium
+1059,Low Fat Banana Raisin French Toast,135085,Breakfast,2,2,2,cash,medium
+1062,Do Ahead Swiss Cheese Souffles,135085,Breakfast,0,0,0,VISA,medium
+1062,Breakfast Casserole,135085,Breakfast,0,0,0,cash,medium
+1077,Mexican Egg Cups,135085,Breakfast,2,2,2,VISA,medium
+1077,Pina Colada Pancakes with Rum Sauce,135085,Breakfast,2,2,2,cash,medium
+1077,Cheese Omelette,135085,Breakfast,2,2,2,bank_debit_cards,medium
+1081,Frosted Green Grapes for Garnish,135085,Breakfast,1,2,1,cash,low
+1084,Ann's Egg-Sausage Casserole,135085,Breakfast,2,2,2,cash,medium
+1086,Homemade Muesli,135085,Breakfast,2,1,1,VISA,medium
+1086,Quick &amp; Easy Low Cal Breakfast or Lunch,135085,Breakfast,2,1,1,bank_debit_cards,medium
+1086,Baked Frittata For One,135085,Breakfast,2,1,1,cash,medium
+1089,Brunch: Portabella Stuffed Mushrooms,135085,Breakfast,1,1,1,cash,low
+1090,Oatmeal with a twist,135085,Breakfast,2,2,2,cash,medium
+1092,Spanish Omelette,135085,Breakfast,0,0,0,cash,medium
+1098,Mexican Hashbrown's,135085,Breakfast,1,2,1,cash,medium
+1104,Cinnamon-Wheat Pancakes with Hot Boysenberry Compote,135085,Breakfast,2,2,1,VISA,medium
+1104,Hot Chocolate Mix,135085,Breakfast,2,2,1,cash,medium
+1106,Spinach & Feta Baked 'Omelette',135085,Breakfast,2,2,2,bank_debit_cards,medium
+1106,Chocolate Chocolate Chip biscotti,135085,Breakfast,2,2,2,cash,medium
+1108,Scottish Eggs,135085,Breakfast,1,2,1,VISA,medium
+1108,Buttermilk Pancake Mix in a Jar,135085,Breakfast,1,2,1,cash,medium
+1108,Morning Casserole,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Scrambled Egg Muffins,135085,Breakfast,1,2,1,VISA,medium
+1108,Asian Apple Pear Compote,135085,Breakfast,1,2,1,cash,medium
+1108,Ham Croissant Rolls (venezuela),135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Cachapas,135085,Breakfast,1,2,1,VISA,medium
+1108,Jerusalem Artichoke Stir Fry,135085,Breakfast,1,2,1,cash,medium
+1108,Baked Brie Strata,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Scrambled eggs and olives,135085,Breakfast,1,2,1,VISA,medium
+1108,Shikshuka (Scrambled eggs and tomatoes)(&#1588;&#1603;&#1588;&#1608;&#1603;&#1607;),135085,Breakfast,1,2,1,cash,medium
+1108,Italian Spaghetti Frittata,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Cheesecake Kugel,135085,Breakfast,1,2,1,VISA,medium
+1108,Apple Blintzes With Caramel Sauce,135085,Breakfast,1,2,1,cash,medium
+1108,Oatmeal Pancakes,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Homemade Cream Cheese,135085,Breakfast,1,2,1,VISA,medium
+1108,Wife Saver Breakfast,135085,Breakfast,1,2,1,cash,medium
+1108,Creme Brulee French Toast,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,"Pinwheel Sandwich - Beautiful in colour, yummy in taste!",135085,Breakfast,1,2,1,VISA,medium
+1108,Ham and Cheese Omelet Roll,135085,Breakfast,1,2,1,cash,medium
+1108,Baked apple maple pancakes,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Winter Fruit Salad,135085,Breakfast,1,2,1,VISA,medium
+1108,Low-Fat Apple Crepes,135085,Breakfast,1,2,1,cash,medium
+1108,Cheesy Potato Bake,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Fried Salmon Patties,135085,Breakfast,1,2,1,VISA,medium
+1108,Crustless Florentine Tart,135085,Breakfast,1,2,1,cash,medium
+1108,Cheesy Ham Cups,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,French Toast Casserole,135085,Breakfast,1,2,1,VISA,medium
+1108,Low-Fat Crustless Spinach Quiche,135085,Breakfast,1,2,1,cash,medium
+1108,Cheesy Baked French Toast,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Lecho,135085,Breakfast,1,2,1,VISA,medium
+1108,Shakshuka,135085,Breakfast,1,2,1,cash,medium
+1108,1-2-3 Granola,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Orange Walnut Pancakes,135085,Breakfast,1,2,1,VISA,medium
+1108,Chicken Egg Pie,135085,Breakfast,1,2,1,cash,medium
+1108,Chicken Brunch Bake,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Egg Pizza,135085,Breakfast,1,2,1,VISA,medium
+1108,Good-Morning Pancakes,135085,Breakfast,1,2,1,cash,medium
+1108,Breakfast Casserole,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Maple Butter,135085,Breakfast,1,2,1,VISA,medium
+1108,Danish Christmas Rice Porridge,135085,Breakfast,1,2,1,cash,medium
+1108,Banana Pancakes (Eggless),135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Chinese Prawns on Toast,135085,Breakfast,1,2,1,VISA,medium
+1108,Pumpkin Griddle Cakes,135085,Breakfast,1,2,1,cash,medium
+1108,Fluffy German Potato Pancakes,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Sausage Gravy,135085,Breakfast,1,2,1,VISA,medium
+1108,Lean Protein Pancakes,135085,Breakfast,1,2,1,cash,medium
+1108,Enchiladas Rojas,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Eggs in Tortillas,135085,Breakfast,1,2,1,VISA,medium
+1108,Slow Unsafe Sex on the Beach,135085,Breakfast,1,2,1,cash,medium
+1108,Mushroom-omelette roll,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1108,Pancakes (Crepes) Filled With Ham and Walnuts (Filling Only),135085,Breakfast,1,2,1,VISA,medium
+1108,Overnight Blueberry French Toast,135085,Breakfast,1,2,1,cash,medium
+1108,Hot Breakfast to Go,135085,Breakfast,1,2,1,MasterCard-Eurocard,medium
+1109,Banana-Stuffed French Toast,135085,Breakfast,2,2,2,cash,low
+1113,Mini Pepperoni Frittatas,135085,Breakfast,1,2,1,VISA,medium
+1113,Chicken Burger in Oven,135085,Breakfast,1,2,1,cash,medium
+1116,Cheddar Baked Bagels and Eggs,135085,Breakfast,2,2,2,cash,medium
+1116,Hash Browns (Patties - Low Sodium) Homemade,135085,Breakfast,2,2,2,bank_debit_cards,medium
+1116,Beefy Scramble,135085,Breakfast,2,2,2,VISA,medium
+1120,Sausage Gravy,135085,Breakfast,0,0,0,cash,low
+1132,Homemade Waffles,135085,Breakfast,2,2,2,cash,high
+1134,Easy Oven-Baked French Toast,135085,Breakfast,2,1,2,cash,medium
+1135,Cornmeal Pancakes (Eggless),135085,Breakfast,0,0,0,cash,low
+1135,Baked Apple French Toast,135085,Breakfast,0,0,0,cash,low
+1135,Breakfast Pizza,135085,Breakfast,0,0,0,cash,low
+1135,Fruity French Toast,135085,Breakfast,0,0,0,cash,low
+1135,Monster Toast,135085,Breakfast,0,0,0,cash,low
+1135,North African Sweet Potato Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Banana Frittatas,135085,Breakfast,0,0,0,cash,low
+1135,Potato Pancakes with Apples,135085,Breakfast,0,0,0,cash,low
+1135,Cracker Barrel's Hashbrowns Casserole - Copycat,135085,Breakfast,0,0,0,cash,low
+1135,Onion Cheese Omelet,135085,Breakfast,0,0,0,cash,low
+1135,"Kinder, Gentler Latkes",135085,Breakfast,0,0,0,cash,low
+1135,Spiced Nut Cake,135085,Breakfast,0,0,0,cash,low
+1135,Country Sausage,135085,Breakfast,0,0,0,cash,low
+1135,Apple-Cheddar Brunch Pizza,135085,Breakfast,0,0,0,cash,low
+1135,Fruit Kabobs With Dip,135085,Breakfast,0,0,0,cash,low
+1135,Herbed Ham and Cheddar Frittata,135085,Breakfast,0,0,0,cash,low
+1135,Breakfast Burritos,135085,Breakfast,0,0,0,cash,low
+1135,"Homemade Maple Syrup, Old Fashioned",135085,Breakfast,0,0,0,cash,low
+1135,Deb's Potato Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Sheer Korma,135085,Breakfast,0,0,0,cash,low
+1135,Overnight Eggnog Baked French Toast,135085,Breakfast,0,0,0,cash,low
+1135,Ricotta Cheese Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Banana-Berry Oatmeal,135085,Breakfast,0,0,0,cash,low
+1135,Sandwich Press Recipe - Cozy Eggs,135085,Breakfast,0,0,0,cash,low
+1135,Fruit Wreath,135085,Breakfast,0,0,0,cash,low
+1135,Fried Doughboys With Honey Butter,135085,Breakfast,0,0,0,cash,low
+1135,Golden Southwestern Breakfast Slop,135085,Breakfast,0,0,0,cash,low
+1135,"Sauteed Apple, Onion N' Bell Pepper",135085,Breakfast,0,0,0,cash,low
+1135,Baked French Toast Casserole,135085,Breakfast,0,0,0,cash,low
+1135,Egg Gravy - Swedish,135085,Breakfast,0,0,0,cash,low
+1135,Country Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Basque-Style Potatoes,135085,Breakfast,0,0,0,cash,low
+1135,"Christmas Brunch, ""Do Ahead"" Eggs Benedict",135085,Breakfast,0,0,0,cash,low
+1135,Charishma's Own Quick n' Easy Theplas',135085,Breakfast,0,0,0,cash,low
+1135,Swedish Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Garlic Grits,135085,Breakfast,0,0,0,cash,low
+1135,Breakfast Pizza,135085,Breakfast,0,0,0,cash,low
+1135,Home Fries,135085,Breakfast,0,0,0,cash,low
+1135,Overnight Waffles,135085,Breakfast,0,0,0,cash,low
+1135,Traditional Migas,135085,Breakfast,0,0,0,cash,low
+1135,Fluffy Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Haggis,135085,Breakfast,0,0,0,cash,low
+1135,Fluffy Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Praline French Toast Bake,135085,Breakfast,0,0,0,cash,low
+1135,Fruit and Grain Cereal,135085,Breakfast,0,0,0,cash,low
+1135,Paul Prudhomme's Sweet Hush Puppies,135085,Breakfast,0,0,0,cash,low
+1135,Highland Beef Balls,135085,Breakfast,0,0,0,cash,low
+1135,Mom's Cornmeal Mush,135085,Breakfast,0,0,0,cash,low
+1135,Apple Cartwheels,135085,Breakfast,0,0,0,cash,low
+1135,Bubble &amp; Squeak,135085,Breakfast,0,0,0,cash,low
+1135,German Pancake,135085,Breakfast,0,0,0,cash,low
+1135,Oxford Sausage,135085,Breakfast,0,0,0,cash,low
+1135,Zucchini Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Buttermilk Syrup,135085,Breakfast,0,0,0,cash,low
+1135,Spicy Sweet Dogs,135085,Breakfast,0,0,0,cash,low
+1135,Moonstruck Eggs,135085,Breakfast,0,0,0,cash,low
+1135,Clapshot (An Orcadian Potato and Yellow Turnip/ Swede/ Rutabaga,135085,Breakfast,0,0,0,cash,low
+1135,Creamed Corn Casserole,135085,Breakfast,0,0,0,cash,low
+1135,Creamed Chipped Beef on Toast,135085,Breakfast,0,0,0,cash,low
+1135,Applesauce Oatmeal,135085,Breakfast,0,0,0,cash,low
+1135,2 Egg Vegetable Omelets,135085,Breakfast,0,0,0,cash,low
+1135,Breakfast in a Cup,135085,Breakfast,0,0,0,cash,low
+1135,Berry Good Strata,135085,Breakfast,0,0,0,cash,low
+1135,Spinach Special Strata,135085,Breakfast,0,0,0,cash,low
+1135,Savory Sausage Rolls,135085,Breakfast,0,0,0,cash,low
+1135,Cottage Scrambled Eggs,135085,Breakfast,0,0,0,cash,low
+1135,Blumenthal's Small Frittatas,135085,Breakfast,0,0,0,cash,low
+1135,Hearty Oatmeal Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Solo Green Chili Cheese Omelette,135085,Breakfast,0,0,0,cash,low
+1135,Quesadillas Breakfast style,135085,Breakfast,0,0,0,cash,low
+1135,Lemon-ricotta Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Cottage Cheese-Banana Breakfast Delite,135085,Breakfast,0,0,0,cash,low
+1135,"SOS (""something"" on a shingle)",135085,Breakfast,0,0,0,cash,low
+1135,Breakfast Frittata,135085,Breakfast,0,0,0,cash,low
+1135,Dundee Orange Marmalade,135085,Breakfast,0,0,0,cash,low
+1135,Louisiana Style French Toast (or Pain Perdu),135085,Breakfast,0,0,0,cash,low
+1135,Selsig Morgannwg (Glamorgan Sausages - Welsh),135085,Breakfast,0,0,0,cash,low
+1135,Sweetened Cream Cheese,135085,Breakfast,0,0,0,cash,low
+1135,Oat Muesli,135085,Breakfast,0,0,0,cash,low
+1135,Eggs in Bed,135085,Breakfast,0,0,0,cash,low
+1135,Decadent French Toast,135085,Breakfast,0,0,0,cash,low
+1135,Cheese and Egg Puffs,135085,Breakfast,0,0,0,cash,low
+1135,Spring Potato Strata,135085,Breakfast,0,0,0,cash,low
+1135,My Breakfast Frittata,135085,Breakfast,0,0,0,cash,low
+1135,Frozen Fruit Slushy Stuff,135085,Breakfast,0,0,0,cash,low
+1135,Huevos Rancheros,135085,Breakfast,0,0,0,cash,low
+1135,Chocolate-Chip Feather Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Hash Browns Potato Pancakes - Homemade,135085,Breakfast,0,0,0,cash,low
+1135,Buttermilk Pancakes with Pecans,135085,Breakfast,0,0,0,cash,low
+1135,Scottish Crowdie,135085,Breakfast,0,0,0,cash,low
+1135,Orange Cream Cheese-Stuffed French Toast,135085,Breakfast,0,0,0,cash,low
+1135,Calcium-Armed Bran Muffins,135085,Breakfast,0,0,0,cash,low
+1135,Pound Cake With Granola,135085,Breakfast,0,0,0,cash,low
+1135,Russian Blintsi,135085,Breakfast,0,0,0,cash,low
+1135,Pan Fried Blueberry Corn Fritters,135085,Breakfast,0,0,0,cash,low
+1135,Potato Pancakes,135085,Breakfast,0,0,0,cash,low
+1135,Baked Eggs And Ham For Two,135085,Breakfast,0,0,0,cash,low
+1135,Traditional British Bangers,135085,Breakfast,0,0,0,cash,low
+1135,Pinch Me Cake,135085,Breakfast,0,0,0,cash,low
+1135,Crepes,135085,Breakfast,0,0,0,cash,low
+1135,Cilantro Eggs,135085,Breakfast,0,0,0,cash,low
+1135,Baked Sausage and Eggs,135085,Breakfast,0,0,0,cash,low
+1135,Norwegian French Toast,135085,Breakfast,0,0,0,cash,low
+1137,Oven Baked Caramel French Toast,135085,Breakfast,2,1,2,cash,low
+1001,Poor Knights,135039,Breakfast,1,1,1,cash,medium
+1054,3-Ingredient Cinnamon Banana Slice,135039,Breakfast,2,2,1,cash,medium
+1071,Fools on the Hill,135039,Breakfast,2,2,2,cash,high
+1075,Peach and Blueberry Crunch With Almonds,135039,Breakfast,2,2,0,cash,medium
+1076,Ricotta Pancakes,135039,Breakfast,2,2,1,VISA,medium
+1076,Peanut Butter &amp; Jam French Toast,135039,Breakfast,2,2,1,cash,medium
+1076,Cajun Style Boudin Sausage,135039,Breakfast,2,2,1,bank_debit_cards,medium
+1081,Cheesy Welsh Rarebit,135039,Breakfast,0,0,0,cash,low
+1101,Strawberries & Cream Crepes,135039,Breakfast,1,1,1,cash,low
+1101,Corn Pudding,135039,Breakfast,1,1,1,cash,low
+1101,Praline French Toast,135039,Breakfast,1,1,1,cash,low
+1101,Breakfast Hash Browns,135039,Breakfast,1,1,1,cash,low
+1101,Bountiful Brunch Pizza,135039,Breakfast,1,1,1,cash,low
+1101,Crepes With Orange Syrup,135039,Breakfast,1,1,1,cash,low
+1101,Teensters Chili Dog Crepes,135039,Breakfast,1,1,1,cash,low
+1101,All Purpose Dinner Crepes Batter,135039,Breakfast,1,1,1,cash,low
+1101,Dessert Crepes Helene,135039,Breakfast,1,1,1,cash,low
+1101,Apple Stuffed Sausage Patties,135039,Breakfast,1,1,1,cash,low
+1101,Bacon Floddies,135039,Breakfast,1,1,1,cash,low
+1101,Crab Omelet,135039,Breakfast,1,1,1,cash,low
+1101,Breakfast For The Gods,135039,Breakfast,1,1,1,cash,low
+1101,Orkney Pancakes,135039,Breakfast,1,1,1,cash,low
+1101,Curried Chicken Breast Crepes,135039,Breakfast,1,1,1,cash,low
+1104,Overnight Creme Brulee French Toast,135039,Breakfast,0,0,1,VISA,medium
+1104,Bacon Froise,135039,Breakfast,0,0,1,cash,medium
+1105,Spinach Feta Frittata,135039,Breakfast,0,0,0,cash,medium
+1106,Make Ahead Chocolate French Toast,135039,Breakfast,2,1,1,bank_debit_cards,medium
+1106,Grandpa's French Toast,135039,Breakfast,2,1,1,cash,medium
+1124,Luscious Chocolate Butter,135039,Breakfast,1,1,1,cash,low
+1001,Pain Perdu,135025,Breakfast,2,2,2,cash,medium
+1007,Herb-Broiled Tomatoes,135025,Breakfast,1,1,1,cash,low
+1018,Grand Marnier French Toast,135025,Breakfast,1,1,1,cash,low
+1022,Blueberry Omelet,135025,Breakfast,0,0,0,cash,medium
+1036,French Toast With Banana Stuffing,135025,Breakfast,2,2,2,cash,medium
+1053,Cheesy Brunch Roll-Ups,135025,Breakfast,2,1,2,cash,low
+1054,Flaming Eggs,135025,Breakfast,2,2,2,cash,medium
+1055,Baked Pecan French Toast,135025,Breakfast,2,2,2,cash,medium
+1071,Veggie Tex-Mex Tortilla Wraps,135025,Breakfast,2,2,2,cash,high
+1090,Comforting Knishes,135025,Breakfast,2,2,2,cash,medium
+1092,Guacamole Omelet,135025,Breakfast,2,1,1,cash,medium
+1096,Overnight Egg Brunch,135025,Breakfast,2,2,2,cash,medium
+1104,Southwest Scrambles,135025,Breakfast,2,1,1,VISA,medium
+1104,Overnight Strata,135025,Breakfast,2,1,1,cash,medium
+1116,Pickled Eggs,135025,Breakfast,2,2,2,cash,medium
+1116,Veggie Breakfast Casserole,135025,Breakfast,2,2,2,bank_debit_cards,medium
+1116,Crustless Corn and Tomato Pie,135025,Breakfast,2,2,2,VISA,medium
+1132,PETA's Pancakes,135025,Breakfast,1,1,2,cash,high
+1002,Grilled Pink Grapefruit,132921,Breakfast,2,1,1,cash,low
+1013,German Sausage and Apple Pancakes,132921,Breakfast,2,2,1,MasterCard-Eurocard,medium
+1013,Oatmeal Buttermilk Pancakes,132921,Breakfast,2,2,1,cash,medium
+1019,Low-Fat Yogurt Topped Strawberry Pancakes,132921,Breakfast,0,0,0,cash,medium
+1027,Low-Fat Pancakes With Orange Sauce,132921,Breakfast,1,1,1,cash,low
+1029,Honey-apple Pancakes,132921,Breakfast,1,1,1,cash,low
+1033,Buttermilk Toaster Pancakes,132921,Breakfast,2,1,1,cash,low
+1046,&quot; Lite&quot; Cretons,132921,Breakfast,2,1,2,cash,medium
+1049,Blueberry French Toast,132921,Breakfast,0,0,0,cash,high
+1061,"Vegetarian, Diabetic, Low-fat Whole Wheat Buttermilk Pancakes",132921,Breakfast,1,2,1,cash,medium
+1061,100 Year Old Souffle,132921,Breakfast,1,2,1,bank_debit_cards,medium
+1086,Almost Green Scrambled eggs with Spinach,132921,Breakfast,1,1,1,VISA,medium
+1086,Sweet Pepper and Feta Strata,132921,Breakfast,1,1,1,bank_debit_cards,medium
+1086,Southwestern Frittata,132921,Breakfast,1,1,1,cash,medium
+1089,Peanut Butter and Jelly French Toast,132921,Breakfast,1,1,1,cash,low
+1097,Orange Omelette for Harlots and Ruffians,132921,Breakfast,2,2,1,cash,medium
+1098,Wastels Yfarced (Toasted Stuffed Brown Rolls),132921,Breakfast,1,2,1,cash,medium
+1112,Vegan Crepes,132921,Breakfast,1,0,0,cash,medium
+1128,Fluffy Oven Eggs and Bacon,132921,Breakfast,0,0,0,cash,low
+1128,Cheesy Hash Browns for One,132921,Breakfast,0,0,0,cash,low
+1128,Spicy Hash Browns - Homemade,132921,Breakfast,0,0,0,cash,low
+1128,Corned Beef Hash,132921,Breakfast,0,0,0,cash,low
+1136,French Toast with Raspberry Butter,132921,Breakfast,2,2,2,cash,low
+1138,Pancakes (Aunt Jemima Style),132921,Breakfast,2,2,1,cash,medium
+1002,Bacon and Corn Johnnycakes,135106,Breakfast,1,1,1,cash,low
+1004,Three Berry Crepes with Creme Anglaise and Strawberry Sauce,135106,Breakfast,2,2,2,cash,medium
+1004,Gypsy Toast,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Bagel's My Way,135106,Breakfast,2,2,2,cash,medium
+1004,All Time Favourite Rajma Burgers,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Granola Pie with Yogurt Sauce,135106,Breakfast,2,2,2,cash,medium
+1004,Irish Vegetarian Colcannon,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Pumpkin butter,135106,Breakfast,2,2,2,cash,medium
+1004,Irish Boiled Eggs &amp; Dippies for One,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Smoked Salmon on Creamy Egg Filled Popovers,135106,Breakfast,2,2,2,cash,medium
+1004,Easy Strawberry Jam,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Irish Egg in a Cup for one,135106,Breakfast,2,2,2,cash,medium
+1004,Tomato Poha,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Baked Cranberry Oatmeal,135106,Breakfast,2,2,2,cash,medium
+1004,Taos Eggs,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Better Scramble,135106,Breakfast,2,2,2,cash,medium
+1004,Thank God I'm a Country Boy,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1004,Ham Breakfast Casserole,135106,Breakfast,2,2,2,cash,medium
+1004,Scrambled Egg Hash,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1016,Pineapple Upside Down French Toast,135106,Breakfast,2,2,2,cash,medium
+1016,Peanut Butter and Jelly French Toast,135106,Breakfast,2,2,2,cash,medium
+1016,Vanilla Pudding Fruit Salad,135106,Breakfast,2,2,2,cash,medium
+1016,Apple Pie Pancakes,135106,Breakfast,2,2,2,cash,medium
+1016,Brunch Bake Supreme,135106,Breakfast,2,2,2,cash,medium
+1016,Irish Potato & Bacon Cakes,135106,Breakfast,2,2,2,cash,medium
+1016,French Waffles with Strawberries,135106,Breakfast,2,2,2,cash,medium
+1016,Peanut Butter and Jelly Wraps,135106,Breakfast,2,2,2,cash,medium
+1016,Spring Veggie Frittata,135106,Breakfast,2,2,2,cash,medium
+1016,Banana and Plum Roll,135106,Breakfast,2,2,2,cash,medium
+1016,Vegan Mediterranean Scramble,135106,Breakfast,2,2,2,cash,medium
+1016,Bananas Foster French Toast,135106,Breakfast,2,2,2,cash,medium
+1016,Banana Nut Matzoh Kugel,135106,Breakfast,2,2,2,cash,medium
+1016,Company's Comin' Breakfast Casserole,135106,Breakfast,2,2,2,cash,medium
+1055,Good Morning Fruit Soup,135106,Breakfast,2,2,2,cash,medium
+1078,Fried Apple Rings,135106,Breakfast,2,2,2,VISA,medium
+1078,Apple Cranberry French Toast,135106,Breakfast,2,2,2,bank_debit_cards,medium
+1078,Grandma's Breakfast Casserole,135106,Breakfast,2,2,2,cash,medium
+1101,Onion Pie,135106,Breakfast,0,0,0,cash,low
+1101,Monster Morning Casserole,135106,Breakfast,0,0,0,cash,low
+1101,Oven Denver Omelet,135106,Breakfast,0,0,0,cash,low
+1101,Raspberry Butter,135106,Breakfast,0,0,0,cash,low
+1101,Verry Berry French Toast,135106,Breakfast,0,0,0,cash,low
+1101,"""Blitz""-Blintzes",135106,Breakfast,0,0,0,cash,low
+1101,Oatmeal with Barley and Blueberries,135106,Breakfast,0,0,0,cash,low
+1101,Chicken Fried Chicken With Milk Gravy,135106,Breakfast,0,0,0,cash,low
+1101,Spinach Cheese Kugel (Low Fat),135106,Breakfast,0,0,0,cash,low
+1101,Blueberry Blueberry Sour Cream Pancakes,135106,Breakfast,0,0,0,cash,low
+1101,Tortilla Espanola (Spanish Omelet),135106,Breakfast,0,0,0,cash,low
+1101,Apple Cinnamon Roll Pudding,135106,Breakfast,0,0,0,cash,low
+1101,Passover Low-Fat Granola,135106,Breakfast,0,0,0,cash,low
+1101,Matzoh Meal and Apple Pancakes,135106,Breakfast,0,0,0,cash,low
+1101,Apple Matzoh Kugel,135106,Breakfast,0,0,0,cash,low
+1106,Pommes de Terre pour le Petit Dejeuner,135106,Breakfast,0,0,0,bank_debit_cards,medium
+1106,Petit Dejeuner,135106,Breakfast,0,0,0,cash,medium
+1126,Lean Homemade Sausage Patties,135106,Breakfast,2,2,2,cash,low
+1135,"""Land of Nod"" Cinnamon Buns",135106,Breakfast,0,0,0,cash,low
+1135,Apple Oatcakes,135106,Breakfast,0,0,0,cash,low
+1135,Peach Omelette Souffle,135106,Breakfast,0,0,0,cash,low
+1135,French Toast Sandwiches,135106,Breakfast,0,0,0,cash,low
+1135,Sunny Orange Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Dried Fruit Compote For Two,135106,Breakfast,0,0,0,cash,low
+1135,Old Fashioned Porridge,135106,Breakfast,0,0,0,cash,low
+1135,Good and Easy Breakfast Hash,135106,Breakfast,0,0,0,cash,low
+1135,Gingerbread Waffles,135106,Breakfast,0,0,0,cash,low
+1135,Rumbled Eggs,135106,Breakfast,0,0,0,cash,low
+1135,Cajun Style Oven Hash Browns,135106,Breakfast,0,0,0,cash,low
+1135,Granola Gorp,135106,Breakfast,0,0,0,cash,low
+1135,Brunch in a Bun,135106,Breakfast,0,0,0,cash,low
+1135,BWI (Baked-While-Intoxicated) Sausages,135106,Breakfast,0,0,0,cash,low
+1135,"Lemon, Ricotta and Sour Cream Pancakes",135106,Breakfast,0,0,0,cash,low
+1135,Mumbled Asparagus with Lemony Salmon,135106,Breakfast,0,0,0,cash,low
+1135,Ham &amp; Egg Casserole,135106,Breakfast,0,0,0,cash,low
+1135,Apricot and Almond Crepes With Creme Anglaise,135106,Breakfast,0,0,0,cash,low
+1135,Egg in the Basket,135106,Breakfast,0,0,0,cash,low
+1135,Vanilla-Scented Granola,135106,Breakfast,0,0,0,cash,low
+1135,Crabbamuffins,135106,Breakfast,0,0,0,cash,low
+1135,Cheesy Red-White Sauce,135106,Breakfast,0,0,0,cash,low
+1135,Pecan Rolls,135106,Breakfast,0,0,0,cash,low
+1135,Passover French Toast,135106,Breakfast,0,0,0,cash,low
+1135,Apple Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Passover Granola,135106,Breakfast,0,0,0,cash,low
+1135,Oatmeal Waffles or Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Vegan Banana Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Corn Muffin Casserole,135106,Breakfast,0,0,0,cash,low
+1135,Jolly Boys,135106,Breakfast,0,0,0,cash,low
+1135,Breakfast Fruit Salad,135106,Breakfast,0,0,0,cash,low
+1135,Eggplant (Aubergine)-Potato Hash,135106,Breakfast,0,0,0,cash,low
+1135,Apple Sausage Breakfast Ring,135106,Breakfast,0,0,0,cash,low
+1135,Kedgeree,135106,Breakfast,0,0,0,cash,low
+1135,Banana Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Good Morning Bridgeford Bread Rolls,135106,Breakfast,0,0,0,cash,low
+1135,Cornmeal Waffles,135106,Breakfast,0,0,0,cash,low
+1135,Hot Apple Clafouti,135106,Breakfast,0,0,0,cash,low
+1135,Easy Yummy Healthy Eggs,135106,Breakfast,0,0,0,cash,low
+1135,Prawn and Potato Omelette,135106,Breakfast,0,0,0,cash,low
+1135,Old-fashion Potato Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Sunshine Fruits,135106,Breakfast,0,0,0,cash,low
+1135,Breakfast Burritos,135106,Breakfast,0,0,0,cash,low
+1135,Guinness Omelet,135106,Breakfast,0,0,0,cash,low
+1135,Al's Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Brunch English Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,French Toast with Cornflake Crunch,135106,Breakfast,0,0,0,cash,low
+1135,Pumpkin Waffles,135106,Breakfast,0,0,0,cash,low
+1135,Easy Breakfast Sausage Patties,135106,Breakfast,0,0,0,cash,low
+1135,Ployes: French Buckwheat Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Crab Hash,135106,Breakfast,0,0,0,cash,low
+1135,Karl's Breakfast Casserole,135106,Breakfast,0,0,0,cash,low
+1135,Sausage Egg Casserole,135106,Breakfast,0,0,0,cash,low
+1135,Chicken Frittata,135106,Breakfast,0,0,0,cash,low
+1135,Overnight Caramelized Apple Matzoh Brie,135106,Breakfast,0,0,0,cash,low
+1135,Chicken Parmesan Sauce,135106,Breakfast,0,0,0,cash,low
+1135,Coconut Draped Peanuty Banana,135106,Breakfast,0,0,0,cash,low
+1135,Cinnamon Breakfast Apples,135106,Breakfast,0,0,0,cash,low
+1135,Smoked Salmon Scramble,135106,Breakfast,0,0,0,cash,low
+1135,Curried Poached Eggs,135106,Breakfast,0,0,0,cash,low
+1135,Shannon's Hominy Egg Pita,135106,Breakfast,0,0,0,cash,low
+1135,Traditional Spanish Omelette,135106,Breakfast,0,0,0,cash,low
+1135,Fruit Salad With Fresh Mint,135106,Breakfast,0,0,0,cash,low
+1135,Jackson Browne's Norwegian Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Curach (Irish Honey-And-Oatmeal Cream),135106,Breakfast,0,0,0,cash,low
+1135,Spinach and Mushroom Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Melon with Blueberries,135106,Breakfast,0,0,0,cash,low
+1135,Spring Frittata,135106,Breakfast,0,0,0,cash,low
+1135,tofu/egg burritos,135106,Breakfast,0,0,0,cash,low
+1135,Orange Scramble Egg,135106,Breakfast,0,0,0,cash,low
+1135,"Grandad's Breakfast Bean ""Samich""",135106,Breakfast,0,0,0,cash,low
+1135,Guinness Battered Onion Rings,135106,Breakfast,0,0,0,cash,low
+1135,Apple Pecan Baked Pancake,135106,Breakfast,0,0,0,cash,low
+1135,Traditional Eggs Benedict,135106,Breakfast,0,0,0,cash,low
+1135,Poached Eggs,135106,Breakfast,0,0,0,cash,low
+1135,The Ultimate Breakfast Frittata,135106,Breakfast,0,0,0,cash,low
+1135,Norwegian Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,The Jeffersons Egg Special,135106,Breakfast,0,0,0,cash,low
+1135,Vegetable Frittata,135106,Breakfast,0,0,0,cash,low
+1135,Yogurt Parfait,135106,Breakfast,0,0,0,cash,low
+1135,Bizarre but Tasty Tofu Tomato Sandwich (And Good for You Too!),135106,Breakfast,0,0,0,cash,low
+1135,Menudo (Tripe Soup),135106,Breakfast,0,0,0,cash,low
+1135,Morning Fruit Delight,135106,Breakfast,0,0,0,cash,low
+1135,Ukrainian Potato Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Southwestern Omelet,135106,Breakfast,0,0,0,cash,low
+1135,&quot;P&quot;anana Confetti Circles,135106,Breakfast,0,0,0,cash,low
+1135,Potatoes O'Brien,135106,Breakfast,0,0,0,cash,low
+1135,Hot Buttered Apples,135106,Breakfast,0,0,0,cash,low
+1135,Strawberries With Sour Cream and Brown Sugar,135106,Breakfast,0,0,0,cash,low
+1135,Baked Oatmeal,135106,Breakfast,0,0,0,cash,low
+1135,Pancakes,135106,Breakfast,0,0,0,cash,low
+1135,Satisfying Cherry Crunch,135106,Breakfast,0,0,0,cash,low
+1135,Prawn and Corn Fritters,135106,Breakfast,0,0,0,cash,low
+1135,Breakfast of Champions,135106,Breakfast,0,0,0,cash,low
+1135,Creamy Grits,135106,Breakfast,0,0,0,cash,low
+1135,Belgian Waffles,135106,Breakfast,0,0,0,cash,low
+1135,Ham and Vegetable Frittata,135106,Breakfast,0,0,0,cash,low
+1135,Hot Potatoes and Egg Tacos,135106,Breakfast,0,0,0,cash,low
+1135,Garlic Grits Casserole,135106,Breakfast,0,0,0,cash,low
+1135,Sooji Ka Upma (Semolina Upma),135106,Breakfast,0,0,0,cash,low
+1135,Puffy Omelet,135106,Breakfast,0,0,0,cash,low
+1135,The World's Best Masala Idlis With Coconut Chutney,135106,Breakfast,0,0,0,cash,low
+1135,E-Z Mex-Tex Omelet,135106,Breakfast,0,0,0,cash,low
+1002,Sweet Dosa,135052,Breakfast,1,1,1,cash,low
+1002,Homemade Sausage Patties,135052,Breakfast,1,1,1,cash,low
+1009,Asparagus Ham Quiche,135052,Breakfast,2,1,0,cash,medium
+1009,Kele Aur Khus-Khus Ki Puri (Banana And Poppy Seeds Puri),135052,Breakfast,2,1,0,cash,medium
+1009,Sicilian Egg Patties,135052,Breakfast,2,1,0,cash,medium
+1009,Shannon's Strawberry Pineapple Parfait,135052,Breakfast,2,1,0,cash,medium
+1009,Baked Egg Breakfast,135052,Breakfast,2,1,0,cash,medium
+1009,Tex-Mex Breakfast,135052,Breakfast,2,1,0,cash,medium
+1009,Chili Jack Oven Omelet,135052,Breakfast,2,1,0,cash,medium
+1009,Mom's Awesome Potato Pancakes,135052,Breakfast,2,1,0,cash,medium
+1009,Almost Eggs Benedict,135052,Breakfast,2,1,0,cash,medium
+1009,E-Z Poached Eggs for 2,135052,Breakfast,2,1,0,cash,medium
+1009,Mashed Potato Pancakes,135052,Breakfast,2,1,0,cash,medium
+1009,Mediterranean Breakfast,135052,Breakfast,2,1,0,cash,medium
+1009,Scrambled Eggs with Asparagus and Brie,135052,Breakfast,2,1,0,cash,medium
+1009,Sonora Scramble,135052,Breakfast,2,1,0,cash,medium
+1016,Hearty 3-Grain Porridge,135052,Breakfast,2,2,2,cash,medium
+1016,Scrambled Eggless Eggs,135052,Breakfast,2,2,2,cash,medium
+1016,Monday Morning Oatmeal Pancakes,135052,Breakfast,2,2,2,cash,medium
+1016,Classic Pancakes,135052,Breakfast,2,2,2,cash,medium
+1016,Fabulous French Toast,135052,Breakfast,2,2,2,cash,medium
+1016,Vegetable Tofy Scrambler,135052,Breakfast,2,2,2,cash,medium
+1016,Heavenly Hash Browns - Homemade,135052,Breakfast,2,2,2,cash,medium
+1016,Curried Pan-Fried Potatoes,135052,Breakfast,2,2,2,cash,medium
+1016,Cheese and Pineapple Sandwich,135052,Breakfast,2,2,2,cash,medium
+1016,Green Scrambled Tofu,135052,Breakfast,2,2,2,cash,medium
+1016,Granola Bars,135052,Breakfast,2,2,2,cash,medium
+1016,Rise 'n Shine Granola,135052,Breakfast,2,2,2,cash,medium
+1016,Cinnamon-Apple Oatmeal,135052,Breakfast,2,2,2,cash,medium
+1016,Master Mix ( Biscuits or Pancakes ),135052,Breakfast,2,2,2,cash,medium
+1016,French Toast,135052,Breakfast,2,2,2,cash,medium
+1016,Flaxjacks,135052,Breakfast,2,2,2,cash,medium
+1016,High Protein Granola (from Nu-World Foods),135052,Breakfast,2,2,2,cash,medium
+1016,Racy Raisin Rice Pudding,135052,Breakfast,2,2,2,cash,medium
+1016,Apple Cinnamon Cornmeal Pancakes,135052,Breakfast,2,2,2,cash,medium
+1016,Corned Beef Hash and Eggs,135052,Breakfast,2,2,2,cash,medium
+1016,Sheepherders Breakfast,135052,Breakfast,2,2,2,cash,medium
+1016,Oven Puffed Pancake with Fruit Topping,135052,Breakfast,2,2,2,cash,medium
+1016,No Sugar Strawberry Jam,135052,Breakfast,2,2,2,cash,medium
+1016,Basic Buckwheat Pancakes,135052,Breakfast,2,2,2,cash,medium
+1016,Brainless Banana Pancakes,135052,Breakfast,2,2,2,cash,medium
+1016,Brown Rice Breakfast,135052,Breakfast,2,2,2,cash,medium
+1016,"Egg, Bacon and Hash Browns Casserole",135052,Breakfast,2,2,2,cash,medium
+1016,My Favorite Comfort Food Egg Sandwich,135052,Breakfast,2,2,2,cash,medium
+1022,Easy Orange French Toast,135052,Breakfast,2,2,2,cash,medium
+1022,Masala Dosa with Coconut Chutney (South Indian Savory Crepes with filling),135052,Breakfast,2,2,2,cash,medium
+1027,Oatmeal Bake,135052,Breakfast,1,1,1,cash,low
+1027,Asparagus Cheese Puff,135052,Breakfast,1,1,1,cash,low
+1036,breakfast salad,135052,Breakfast,2,2,2,cash,medium
+1036,Sweet Broiled Grapefruit,135052,Breakfast,2,2,2,cash,medium
+1045,Open Face Monte Cristo Sandwiches,135052,Breakfast,1,2,2,cash,high
+1045,Cheesy Bacon and Ham Casserole,135052,Breakfast,1,2,2,cash,high
+1045,Lazy Family Fruity Salad,135052,Breakfast,1,2,2,cash,high
+1045,Fancy Breakfast,135052,Breakfast,1,2,2,cash,high
+1045,Breakfast Pizza,135052,Breakfast,1,2,2,cash,high
+1045,Apple Pancakes,135052,Breakfast,1,2,2,cash,high
+1045,Bird's Nest Breakfast,135052,Breakfast,1,2,2,cash,high
+1045,Good Start Sandwiches,135052,Breakfast,1,2,2,cash,high
+1049,Date with a Rhubarb,135052,Breakfast,0,0,0,cash,high
+1049,French toast,135052,Breakfast,0,0,0,cash,high
+1054,Peppered Breakfast Bacon,135052,Breakfast,2,2,1,cash,medium
+1054,Easy Blintz Souffle,135052,Breakfast,2,2,1,cash,medium
+1056,Easy Veggie Burrito for one (Vegan),135052,Breakfast,2,2,2,cash,medium
+1056,Individual Mini Shrimp Quiches,135052,Breakfast,2,2,2,cash,medium
+1062,Pancakes With Mini Chocolate Chips & Raspberry Sauce,135052,Breakfast,0,0,0,VISA,medium
+1062,Grandma Kay's Swedish Pancakes,135052,Breakfast,0,0,0,VISA,medium
+1062,Breakfast Burritos,135052,Breakfast,0,0,0,cash,medium
+1062,Glazed Brunch Ham With Mustard &amp; Molasses,135052,Breakfast,0,0,0,cash,medium
+1064,One Pan Country Apple Pancake,135052,Breakfast,2,0,2,cash,medium
+1064,Easy Low Fat French Toast,135052,Breakfast,2,0,2,cash,medium
+1071,Cauliflower Pie,135052,Breakfast,2,2,2,cash,high
+1071,Blintz Souffle,135052,Breakfast,2,2,2,cash,high
+1073,Gothampu ada (Special wheat pancake),135052,Breakfast,0,0,0,cash,medium
+1073,Baked Banana Stuffed French Toast,135052,Breakfast,0,0,0,cash,medium
+1078,Fried Apples with Bacon,135052,Breakfast,2,2,2,VISA,medium
+1078,Blueberry Cream Cheese Stuffed Baked French Toast,135052,Breakfast,2,2,2,VISA,medium
+1078,Picante Potato Pie,135052,Breakfast,2,2,2,bank_debit_cards,medium
+1078,Rise and Shine Casserole,135052,Breakfast,2,2,2,bank_debit_cards,medium
+1078,Creole Grits,135052,Breakfast,2,2,2,cash,medium
+1078,Breakfast Bird's Nest,135052,Breakfast,2,2,2,cash,medium
+1081,Creamed Ham,135052,Breakfast,0,1,1,cash,low
+1081,Tuna Delight,135052,Breakfast,0,1,1,cash,low
+1090,Apple-Raspberry Crisp,135052,Breakfast,2,2,2,cash,medium
+1090,Danish,135052,Breakfast,2,2,2,cash,medium
+1101,Baked Breakfast Spuds,135052,Breakfast,2,1,1,cash,low
+1101,Savoury Cheddar Pie,135052,Breakfast,2,1,1,cash,low
+1101,Mexican Breakfast,135052,Breakfast,2,1,1,cash,low
+1101,Fruity stuffed french toast,135052,Breakfast,2,1,1,cash,low
+1101,Dormant Volcanoes,135052,Breakfast,2,1,1,cash,low
+1101,Overnight Grits Souffle,135052,Breakfast,2,1,1,cash,low
+1101,Toasted Clam Thingies Appetizers,135052,Breakfast,2,1,1,cash,low
+1101,Deviled Mushrooms,135052,Breakfast,2,1,1,cash,low
+1101,Yummy Flax Seed Pancakes,135052,Breakfast,2,1,1,cash,low
+1101,Andreas Fault Bagel Sandwich,135052,Breakfast,2,1,1,cash,low
+1101,Another Great Fruit Salad,135052,Breakfast,2,1,1,cash,low
+1101,Sarah McLachlan's Asparagus Frittata,135052,Breakfast,2,1,1,cash,low
+1101,Onion Frittata,135052,Breakfast,2,1,1,cash,low
+1101,Belgian Waffles,135052,Breakfast,2,1,1,cash,low
+1101,Bohemian Omelets,135052,Breakfast,2,1,1,cash,low
+1101,Molasses-Peanut Granola,135052,Breakfast,2,1,1,cash,low
+1101,Easy Cheesy Brunch Casserole,135052,Breakfast,2,1,1,cash,low
+1101,Eggnog  French Toast,135052,Breakfast,2,1,1,cash,low
+1101,Herbed Cheese Omelet,135052,Breakfast,2,1,1,cash,low
+1101,Homemade Breakfast Sausage,135052,Breakfast,2,1,1,cash,low
+1101,Mutty D's Quarter Pounders,135052,Breakfast,2,1,1,cash,low
+1101,Oatmeal in a bowl,135052,Breakfast,2,1,1,cash,low
+1101,Cheese Grits Souffle,135052,Breakfast,2,1,1,cash,low
+1101,Vincent's Favorite Kolaches,135052,Breakfast,2,1,1,cash,low
+1101,Spanish Scrambled Eggs,135052,Breakfast,2,1,1,cash,low
+1101,Old Fashioned Buckwheat Pancakes,135052,Breakfast,2,1,1,cash,low
+1101,Trout Breakfast on a Brook for two,135052,Breakfast,2,1,1,cash,low
+1101,Grandma's Buttermilk Pancakes,135052,Breakfast,2,1,1,cash,low
+1101,English Muffin Delight,135052,Breakfast,2,1,1,cash,low
+1101,Open Faced Asparagus Omelet,135052,Breakfast,2,1,1,cash,low
+1104,Fluffy Pancakes,135052,Breakfast,1,1,1,VISA,medium
+1104,Country Ham with Red-Eye Gravy,135052,Breakfast,1,1,1,VISA,medium
+1104,My 6 Cup Breakfast,135052,Breakfast,1,1,1,cash,medium
+1104,French Toast Croissants,135052,Breakfast,1,1,1,cash,medium
+1105,crawfish omelet,135052,Breakfast,0,0,0,cash,medium
+1105,Three Cheese Souffle Omelet with Chives,135052,Breakfast,0,0,0,cash,medium
+1106,Crock Pot Apple Butter,135052,Breakfast,0,0,0,bank_debit_cards,medium
+1106,Green Chile Squares,135052,Breakfast,0,0,0,bank_debit_cards,medium
+1106,Buttercup's Special Sup-Rice Pancakes,135052,Breakfast,0,0,0,cash,medium
+1106,Blueberry Buttermilk Pancakes,135052,Breakfast,0,0,0,cash,medium
+1116,Potato Pancake,135052,Breakfast,2,2,2,cash,medium
+1116,Triple Berry Parfait,135052,Breakfast,2,2,2,cash,medium
+1116,Asparagus Puff Sandwich,135052,Breakfast,2,2,2,bank_debit_cards,medium
+1116,Strawberry Banana &amp; Pear Butter,135052,Breakfast,2,2,2,bank_debit_cards,medium
+1116,Homemade Cereal Mix,135052,Breakfast,2,2,2,VISA,medium
+1116,Pommes Anna (Potatoes Anna),135052,Breakfast,2,2,2,VISA,medium
+1126,Cottage Scrambled Eggs,135052,Breakfast,2,1,1,cash,low
+1126,Farmer's Breakfast,135052,Breakfast,2,1,1,cash,low
+1132,Belly-Buster Muffin Sandwich,135052,Breakfast,2,2,2,cash,high
+1132,Zucchini Omelet,135052,Breakfast,2,2,2,cash,high
+1135,Cinnamon Puffs,135052,Breakfast,0,0,0,cash,low
+1135,Pancake Roll-ups,135052,Breakfast,0,0,0,cash,low
+1135,Amish Apple Crisp,135052,Breakfast,0,0,0,cash,low
+1135,Light Carroty Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,"Brie, Fresh Herb, Tomato Omelet for 2",135052,Breakfast,0,0,0,cash,low
+1135,Pooh's Strawberry Cheesecake Parfait,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Burritos (Once a Month Cooking),135052,Breakfast,0,0,0,cash,low
+1135,Tomato Broth Eggs,135052,Breakfast,0,0,0,cash,low
+1135,Baked Eggs with Ham and Chives,135052,Breakfast,0,0,0,cash,low
+1135,Cuban Rice and Beans,135052,Breakfast,0,0,0,cash,low
+1135,Egg Nests,135052,Breakfast,0,0,0,cash,low
+1135,Fluffy Buckwheat Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,One dish breakfast - French pancakes with maple syrup,135052,Breakfast,0,0,0,cash,low
+1135,Bubble and Squeak,135052,Breakfast,0,0,0,cash,low
+1135,Orange Krispies,135052,Breakfast,0,0,0,cash,low
+1135,Southern Brunch Casserole,135052,Breakfast,0,0,0,cash,low
+1135,Baked French Toast,135052,Breakfast,0,0,0,cash,low
+1135,Bagel Transformation,135052,Breakfast,0,0,0,cash,low
+1135,Fruit Pinwheels,135052,Breakfast,0,0,0,cash,low
+1135,Potato Cakes,135052,Breakfast,0,0,0,cash,low
+1135,Southwest Scramble,135052,Breakfast,0,0,0,cash,low
+1135,Easy Breakfast,135052,Breakfast,0,0,0,cash,low
+1135,Mushroom and Pepper Frittata,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Crab Pie,135052,Breakfast,0,0,0,cash,low
+1135,Fawlty Towers Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Amish Baked Oatmeal,135052,Breakfast,0,0,0,cash,low
+1135,Bacon and Tomato Cups,135052,Breakfast,0,0,0,cash,low
+1135,Real Swedish Pancakes (Pannkakor),135052,Breakfast,0,0,0,cash,low
+1135,Bacon and Cheese Egg Appetizers,135052,Breakfast,0,0,0,cash,low
+1135,Potato Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Lemon-Poppy Seed Waffles with Blueberry Sauce,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Pasta,135052,Breakfast,0,0,0,cash,low
+1135,Spinach and Artichoke Strata with Red Peppers,135052,Breakfast,0,0,0,cash,low
+1135,Apple French Toast Casserole,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Burritos,135052,Breakfast,0,0,0,cash,low
+1135,Crunchy Granola,135052,Breakfast,0,0,0,cash,low
+1135,Trail Mix,135052,Breakfast,0,0,0,cash,low
+1135,Fresh Fruit Salad With Lime Cream,135052,Breakfast,0,0,0,cash,low
+1135,Surprise French Toast,135052,Breakfast,0,0,0,cash,low
+1135,Scrambled Morning Sunshine,135052,Breakfast,0,0,0,cash,low
+1135,Stuffed Bacon Rashers,135052,Breakfast,0,0,0,cash,low
+1135,Haggis Loaf,135052,Breakfast,0,0,0,cash,low
+1135,Apple Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,"""A Bit Different"" Breakfast Pizza",135052,Breakfast,0,0,0,cash,low
+1135,Fruity Breakfast Parfait,135052,Breakfast,0,0,0,cash,low
+1135,Extra Easy Cookie Pops,135052,Breakfast,0,0,0,cash,low
+1135,The Best Ever Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Champagne Brunch,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Pizza,135052,Breakfast,0,0,0,cash,low
+1135,Buffet Eggs and Ham,135052,Breakfast,0,0,0,cash,low
+1135,Herb and Walnut Frittata with Balsamic Vinegar,135052,Breakfast,0,0,0,cash,low
+1135,Gingerbread Waffles with Orange Sauce,135052,Breakfast,0,0,0,cash,low
+1135,Mushroomelettes,135052,Breakfast,0,0,0,cash,low
+1135,Pannekoeken,135052,Breakfast,0,0,0,cash,low
+1135,Delicious Buttermilk Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Rancheros Wrap,135052,Breakfast,0,0,0,cash,low
+1135,Stuffed Canadian Bacon,135052,Breakfast,0,0,0,cash,low
+1135,Cornmeal Buttermilk Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Butterscotch Pinwheels,135052,Breakfast,0,0,0,cash,low
+1135,Baking Stones,135052,Breakfast,0,0,0,cash,low
+1135,Banana Nut Granola,135052,Breakfast,0,0,0,cash,low
+1135,Fresh Strawberry 3-Egg Omelette,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Casserole,135052,Breakfast,0,0,0,cash,low
+1135,Banana Oat Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Potato Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Egg Muffin sandwich,135052,Breakfast,0,0,0,cash,low
+1135,Bacon and Asparagus Frittata,135052,Breakfast,0,0,0,cash,low
+1135,Mexfast,135052,Breakfast,0,0,0,cash,low
+1135,So Simple Berries-N-Cream Sandwich,135052,Breakfast,0,0,0,cash,low
+1135,Avocado and Strawberry Salad,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Pizza,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Bars,135052,Breakfast,0,0,0,cash,low
+1135,Melon Salad with Orange-Honey Dressing,135052,Breakfast,0,0,0,cash,low
+1135,Country Fried Ham with Red-Eye Gravy,135052,Breakfast,0,0,0,cash,low
+1135,Baked Grits,135052,Breakfast,0,0,0,cash,low
+1135,Baked Breakfast Sandwich,135052,Breakfast,0,0,0,cash,low
+1135,Crab Muffins,135052,Breakfast,0,0,0,cash,low
+1135,Sinus-Clearing Sausage,135052,Breakfast,0,0,0,cash,low
+1135,Tasty Apple Kielbasa,135052,Breakfast,0,0,0,cash,low
+1135,Rich Chocolate Brownie Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Frittata Di Zucchine (Zucchini Frittata),135052,Breakfast,0,0,0,cash,low
+1135,Taco Eggs,135052,Breakfast,0,0,0,cash,low
+1135,Grandpa's Favorite Corn Fritters,135052,Breakfast,0,0,0,cash,low
+1135,Melon Bowl,135052,Breakfast,0,0,0,cash,low
+1135,Brown Sugar Bacon,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Honey Dream,135052,Breakfast,0,0,0,cash,low
+1135,Garlic Omelet with Hot Red Pepper,135052,Breakfast,0,0,0,cash,low
+1135,Sausage and Peach Breakfast Casserole,135052,Breakfast,0,0,0,cash,low
+1135,Light Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Nutty Honey Oatmeal Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Brunch Bake,135052,Breakfast,0,0,0,cash,low
+1135,Fresh Sausage Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Texas Toast,135052,Breakfast,0,0,0,cash,low
+1135,Apple Danish,135052,Breakfast,0,0,0,cash,low
+1135,Autumn Pumpkin Spice Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Sour cream pancakes (Livanecky Z Kysele Smetany),135052,Breakfast,0,0,0,cash,low
+1135,Special Recipe Scrambled Eggs,135052,Breakfast,0,0,0,cash,low
+1135,Oatmeal Bake,135052,Breakfast,0,0,0,cash,low
+1135,Fiesta Egg Scramble,135052,Breakfast,0,0,0,cash,low
+1135,Crock Pot Little Red Rooster Breakfast,135052,Breakfast,0,0,0,cash,low
+1135,Hawaiian Hash Browns,135052,Breakfast,0,0,0,cash,low
+1135,Make-Ahead Scrambled Eggs,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Pizza,135052,Breakfast,0,0,0,cash,low
+1135,Full Of Veggies Omelet,135052,Breakfast,0,0,0,cash,low
+1135,Oatmeal &amp; Cream,135052,Breakfast,0,0,0,cash,low
+1135,Shrimp and Cheese Bagels,135052,Breakfast,0,0,0,cash,low
+1135,Potato Pancakes with Gouda,135052,Breakfast,0,0,0,cash,low
+1135,Swiss Oven Omelet,135052,Breakfast,0,0,0,cash,low
+1135,Shirley Mom's Cheese Strata,135052,Breakfast,0,0,0,cash,low
+1135,Stuffed French Toast With Cranberry Sauce,135052,Breakfast,0,0,0,cash,low
+1135,Apple-Walnut and Brie Omelette for Two,135052,Breakfast,0,0,0,cash,low
+1135,Scrapple,135052,Breakfast,0,0,0,cash,low
+1135,Open-Faced French Country Omelet,135052,Breakfast,0,0,0,cash,low
+1135,Pineapple Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,New Orleans Eggs with Brandy Cream Sauce,135052,Breakfast,0,0,0,cash,low
+1135,Fluffy Buttermilk Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Tortilla Espagnola (Potato Omelette),135052,Breakfast,0,0,0,cash,low
+1135,Pizza Omelette,135052,Breakfast,0,0,0,cash,low
+1135,Hearty Wheat and Cornmeal Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Cecil Dean's Pure Pork Sausages,135052,Breakfast,0,0,0,cash,low
+1135,Egg Whites and Whole Wheat Toast,135052,Breakfast,0,0,0,cash,low
+1135,Georgia Breakfast Muffins,135052,Breakfast,0,0,0,cash,low
+1135,Chocolate Bundles,135052,Breakfast,0,0,0,cash,low
+1135,Granny's Scalloped Corn,135052,Breakfast,0,0,0,cash,low
+1135,Oven Cheese Fondue Strata,135052,Breakfast,0,0,0,cash,low
+1135,Pumpkin Pie Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Parkin- The Gingerbread from England,135052,Breakfast,0,0,0,cash,low
+1135,Harm's Family Eggs Benedict 1976,135052,Breakfast,0,0,0,cash,low
+1135,Golden Puff,135052,Breakfast,0,0,0,cash,low
+1135,Almond Granola,135052,Breakfast,0,0,0,cash,low
+1135,Apricot Granola,135052,Breakfast,0,0,0,cash,low
+1135,Brennan's Eggs Hussarde,135052,Breakfast,0,0,0,cash,low
+1135,Southwest Sausage Casserole,135052,Breakfast,0,0,0,cash,low
+1135,Easy Baked Apple Oatmeal Breakfast,135052,Breakfast,0,0,0,cash,low
+1135,Muesli,135052,Breakfast,0,0,0,cash,low
+1135,1 step 2 MB 4 U - 2 Minute Breakfast For You!,135052,Breakfast,0,0,0,cash,low
+1135,Porridge,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Casserole Supreme,135052,Breakfast,0,0,0,cash,low
+1135,Apple Danish,135052,Breakfast,0,0,0,cash,low
+1135,Asparagus Alla Milanese,135052,Breakfast,0,0,0,cash,low
+1135,Pizza Bagel Omelets,135052,Breakfast,0,0,0,cash,low
+1135,Cheesy Bacon &amp; Sausage Breakfast Quiche,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Burrito,135052,Breakfast,0,0,0,cash,low
+1135,Buttermilk French Toast,135052,Breakfast,0,0,0,cash,low
+1135,"Brunch ""Blintz"" Casserole",135052,Breakfast,0,0,0,cash,low
+1135,Middle Eastern Spiced Figs,135052,Breakfast,0,0,0,cash,low
+1135,Gaufres (Authentic Belgian Waffles),135052,Breakfast,0,0,0,cash,low
+1135,Pa Dutch Chicken &amp; Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Easy toast pizza,135052,Breakfast,0,0,0,cash,low
+1135,Miss Erin's Orange French Toast,135052,Breakfast,0,0,0,cash,low
+1135,Potato and Bacon Casserole,135052,Breakfast,0,0,0,cash,low
+1135,Omuraisu (Japanese Omelette),135052,Breakfast,0,0,0,cash,low
+1135,Strawberry Toast,135052,Breakfast,0,0,0,cash,low
+1135,Hash Browns Surprise,135052,Breakfast,0,0,0,cash,low
+1135,Bacon &amp; Egg Pie,135052,Breakfast,0,0,0,cash,low
+1135,Wake-Up Seafood Breakfast For Two,135052,Breakfast,0,0,0,cash,low
+1135,Homemade Granola,135052,Breakfast,0,0,0,cash,low
+1135,Pumpkin Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,Cinnamon Syrup,135052,Breakfast,0,0,0,cash,low
+1135,Mom's Sunday Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Smoked Salmon Spirals,135052,Breakfast,0,0,0,cash,low
+1135,Easy Breakfast Rice Pudding,135052,Breakfast,0,0,0,cash,low
+1135,Peanut Butter & Fruit Wraps,135052,Breakfast,0,0,0,cash,low
+1135,Veronica's Pb&amp;h With Wheat Germ on Wasa Bread,135052,Breakfast,0,0,0,cash,low
+1135,Onion Swiss Pie,135052,Breakfast,0,0,0,cash,low
+1135,Pineapple Bread,135052,Breakfast,0,0,0,cash,low
+1135,Banana Cinnamon Toast,135052,Breakfast,0,0,0,cash,low
+1135,Crepes,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Bars,135052,Breakfast,0,0,0,cash,low
+1135,Greek Pancakes,135052,Breakfast,0,0,0,cash,low
+1135,"Easy Crock Pot Potato, Sausage and Egg Breakfast",135052,Breakfast,0,0,0,cash,low
+1135,Tomato and Chorizo Clafouti,135052,Breakfast,0,0,0,cash,low
+1135,Sfouggato me Marouli kai Kremidi/'Sponge' with Lettuce and Onions,135052,Breakfast,0,0,0,cash,low
+1135,Cheddar-Bacon Potato Bake,135052,Breakfast,0,0,0,cash,low
+1135,Velveeta rye party squares,135052,Breakfast,0,0,0,cash,low
+1135,Berry Brunch Pizza,135052,Breakfast,0,0,0,cash,low
+1135,Solo Spam Puff,135052,Breakfast,0,0,0,cash,low
+1135,Apple Harvest Oatmeal,135052,Breakfast,0,0,0,cash,low
+1135,Veggie Breakfast Burritos,135052,Breakfast,0,0,0,cash,low
+1135,"Baked French Toast, New Orleans Style",135052,Breakfast,0,0,0,cash,low
+1135,Zucchini Frittata,135052,Breakfast,0,0,0,cash,low
+1135,Sticky Buns,135052,Breakfast,0,0,0,cash,low
+1135,peach omelet,135052,Breakfast,0,0,0,cash,low
+1135,Tomato and Basil Frittata,135052,Breakfast,0,0,0,cash,low
+1135,Tex-Mex Scramble,135052,Breakfast,0,0,0,cash,low
+1135,Crepes Florentine,135052,Breakfast,0,0,0,cash,low
+1135,Easy Green Chili Eggs,135052,Breakfast,0,0,0,cash,low
+1135,Maple Toast Egg Bake,135052,Breakfast,0,0,0,cash,low
+1135,Brouillade of Mushrooms (or the best scrambled eggs you'll ever eat),135052,Breakfast,0,0,0,cash,low
+1135,Puffy French Toast,135052,Breakfast,0,0,0,cash,low
+1135,Kwick Kielbasa Hash,135052,Breakfast,0,0,0,cash,low
+1135,Delicious Waffles with fruit and yogurt sauce,135052,Breakfast,0,0,0,cash,low
+1135,Breakfast Bars,135052,Breakfast,0,0,0,cash,low
+1135,Yogurt Cheese,135052,Breakfast,0,0,0,cash,low
+1135,Welsh Rabbit,135052,Breakfast,0,0,0,cash,low
+1135,French Toast Waffles,135052,Breakfast,0,0,0,cash,low
+1135,Orange Nut Waffles with Orange Syrup,135052,Breakfast,0,0,0,cash,low
+1135,Eggs Carbonara,135052,Breakfast,0,0,0,cash,low
+1135,Pecan Griddle Cakes,135052,Breakfast,0,0,0,cash,low
+1135,Liberace's Special 15-Minute Eggs,135052,Breakfast,0,0,0,cash,low
+1135,Yummy and Super Easy Crock Pot Oatmeal,135052,Breakfast,0,0,0,cash,low
+1135,Bacon Rollups,135052,Breakfast,0,0,0,cash,low
+1135,A Different Kind of French Toast,135052,Breakfast,0,0,0,cash,low
+1135,Healthy Granola,135052,Breakfast,0,0,0,cash,low
+1135,Apple Waffles With Cinnamon Syrup,135052,Breakfast,0,0,0,cash,low
+1135,Spanish Breakfast Eggs,135052,Breakfast,0,0,0,cash,low
+1002,Potato and Bacon Frittata,132862,Breakfast,2,2,2,cash,low
+1003,Banana And Vanilla Pancakes,132862,Breakfast,1,2,2,cash,low
+1009,Cinnamon Applesauce Bread,132862,Breakfast,2,1,2,cash,medium
+1009,Pear Frittata,132862,Breakfast,2,1,2,cash,medium
+1009,Tomato Basil Tart,132862,Breakfast,2,1,2,cash,medium
+1009,Ham And Cheese Kolache,132862,Breakfast,2,1,2,cash,medium
+1009,Syrian Tomato and Eggs,132862,Breakfast,2,1,2,cash,medium
+1009,Savory Potato Pancakes,132862,Breakfast,2,1,2,cash,medium
+1009,Banana Fritters,132862,Breakfast,2,1,2,cash,medium
+1016,Banana Bacon Grill,132862,Breakfast,2,2,2,cash,medium
+1016,Basic Poutine Recipe,132862,Breakfast,2,2,2,cash,medium
+1016,Corn Custard,132862,Breakfast,2,2,2,cash,medium
+1016,Lemon Ricotta Pancakes,132862,Breakfast,2,2,2,cash,medium
+1016,Grandpaw's Granola,132862,Breakfast,2,2,2,cash,medium
+1016,Farmer's Omelet,132862,Breakfast,2,2,2,cash,medium
+1016,"Hummus, Already Prepared (Canned) by Sy",132862,Breakfast,2,2,2,cash,medium
+1016,Bacon and Potato Scramble,132862,Breakfast,2,2,2,cash,medium
+1016,Banana Praline Crepes,132862,Breakfast,2,2,2,cash,medium
+1016,Mushroom Omelette Roll,132862,Breakfast,2,2,2,cash,medium
+1016,Quick and Easy Cinnamon Toast,132862,Breakfast,2,2,2,cash,medium
+1016,Badazz Baked Baby Beer Bundts for Breakfast,132862,Breakfast,2,2,2,cash,medium
+1016,Low-Fat Chinese Omelet,132862,Breakfast,2,2,2,cash,medium
+1016,Addicted To Porridge,132862,Breakfast,2,2,2,cash,medium
+1029,Gralefrit (a recipe by twits for twits and wannabe twits),132862,Breakfast,1,1,1,cash,low
+1038,Eggs in Muffin Cups,132862,Breakfast,2,2,2,cash,low
+1049,Baked Breakfast Bananas,132862,Breakfast,0,0,0,cash,high
+1057,Homemade Granola,132862,Breakfast,1,0,0,cash,medium
+1057,Scrambled Eggs and Ham,132862,Breakfast,1,0,0,VISA,medium
+1059,Sour Cream Pancakes,132862,Breakfast,0,0,0,cash,medium
+1071,Swedish Pancakes,132862,Breakfast,2,2,2,cash,high
+1073,Johnny Appleseed Breakfast Spread,132862,Breakfast,0,0,0,cash,medium
+1084,Gluten-Free Waffles,132862,Breakfast,2,2,2,cash,medium
+1090,Egg and Bacon Casserole,132862,Breakfast,2,2,2,cash,medium
+1098,Mashed Potato Pancakes,132862,Breakfast,1,2,2,cash,medium
+1106,Grilled Chicken Caesar Sandwich,132862,Breakfast,2,2,2,bank_debit_cards,medium
+1106,Cottage Cheese Pancakes,132862,Breakfast,2,2,2,cash,medium
+1112,Southern Fleece,132862,Breakfast,1,1,1,cash,medium
+1136,Company Scrambled Eggs,132862,Breakfast,2,2,2,cash,low
+1137,Margaret Wood's Mushroom Casserole,132862,Breakfast,2,2,2,cash,low
+1002,Zucchini Omelet,135059,Breakfast,1,2,1,cash,low
+1003,Mini Frittatas With Ham &amp; Cheese,135059,Breakfast,2,2,2,cash,low
+1009,The Lady and Sons Pecan Chicken ( Paula Deen ),135059,Breakfast,2,1,1,cash,medium
+1009,Layth's Crazy Toast Explosion,135059,Breakfast,2,1,1,cash,medium
+1009,Ranch style eggs,135059,Breakfast,2,1,1,cash,medium
+1009,Puffed Pancake with Strawberries,135059,Breakfast,2,1,1,cash,medium
+1009,Banana Toast,135059,Breakfast,2,1,1,cash,medium
+1009,French Toast with Apple Sizzle (Foodfit website),135059,Breakfast,2,1,1,cash,medium
+1009,Scramble-In-A-Pocket,135059,Breakfast,2,1,1,cash,medium
+1029,Rice Pudding with Macadamia-Maple Brittle,135059,Breakfast,2,1,1,cash,low
+1036,Brunch Casserole,135059,Breakfast,2,2,2,cash,medium
+1085,Cheese Puffs,135059,Breakfast,2,2,1,cash,high
+1116,Blueberry Yogurt Pancakes,135059,Breakfast,0,2,2,cash,medium
+1116,Sunday Morning Bismarcks,135059,Breakfast,0,2,2,bank_debit_cards,medium
+1116,"Leek, Potato and Tomato Frittata",135059,Breakfast,0,2,2,VISA,medium
+1134,"Zucchini, Red Pepper & Leek Frittata",135059,Breakfast,2,1,0,cash,medium
+1137,Flannel Cakes - Best Pancakes Ever,135059,Breakfast,2,0,2,cash,low
+1002,Milky wholesome Pancakes,135041,Breakfast,2,1,0,cash,low
+1002,Tamale Pancakes,135041,Breakfast,2,1,0,cash,low
+1003,Granola Squares,135041,Breakfast,0,1,1,cash,low
+1003,Maple Sausage,135041,Breakfast,0,1,1,cash,low
+1005,Creamed Beef on Toast(SOS) by Sy,135041,Breakfast,1,1,1,cash,medium
+1005,Jb's Classic Belgian Waffles (And Variations),135041,Breakfast,1,1,1,cash,medium
+1045,Georgian Pumpkin Pudding,135041,Breakfast,1,2,1,cash,high
+1045,Monte Cristo Strata,135041,Breakfast,1,2,1,cash,high
+1045,Carrot & Tahini Sandwich,135041,Lunch,1,2,1,cash,high
+1045,Cherry Sandwich Maker Snack,135041,Lunch,1,2,1,cash,high
+1045,Bugwiches,135041,Lunch,1,2,1,cash,high
+1045,Cheese Rolls,135041,Lunch,1,2,1,cash,high
+1045,Cold Celery,135041,Lunch,1,2,1,cash,high
+1045,Coconut Chicken Bites,135041,Lunch,1,2,1,cash,high
+1049,Swiss Crab Melt,135041,Lunch,0,0,0,cash,high
+1049,Grilled Avocado Toast,135041,Lunch,0,0,0,cash,high
+1054,Cucumber Pita Wedges,135041,Lunch,2,2,2,cash,medium
+1054,Virginia Fried Soft Shell Crabs,135041,Lunch,2,2,2,cash,medium
+1061,Curry Curlies,135041,Lunch,2,2,2,cash,medium
+1061,Chicken Caesar Wraps,135041,Lunch,2,2,2,cash,medium
+1061,Giant Baked Hero,135041,Lunch,2,2,2,bank_debit_cards,medium
+1061,Ham and Cheese Pockets,135041,Lunch,2,2,2,bank_debit_cards,medium
+1075,Super Sandwich,135041,Lunch,1,1,0,cash,medium
+1075,Linda'a Guadalajara - Style Burritos,135041,Lunch,1,1,0,cash,medium
+1078,Linda's Tuna Burritos,135041,Lunch,2,1,2,VISA,medium
+1078,Greek Salad,135041,Lunch,2,1,2,VISA,medium
+1078,Green Death Tuna Sandwich,135041,Lunch,2,1,2,bank_debit_cards,medium
+1078,Baked Crabmeat,135041,Lunch,2,1,2,bank_debit_cards,medium
+1078,Corn Dogs,135041,Lunch,2,1,2,cash,medium
+1078,French Roasted Vegetable Sandwiches,135041,Lunch,2,1,2,cash,medium
+1086,Fruit and Tuna Salad,135041,Lunch,2,2,2,VISA,medium
+1086,Flavored Nuts,135041,Lunch,2,2,2,VISA,medium
+1086,Dried Fruit Roll-Ups,135041,Lunch,2,2,2,bank_debit_cards,medium
+1086,Creamed Tuna,135041,Lunch,2,2,2,bank_debit_cards,medium
+1086,Microwaved Garlic Mushroom Rolls,135041,Lunch,2,2,2,cash,medium
+1086,Oat Fritters from South Africa,135041,Lunch,2,2,2,cash,medium
+1101,Barbecued Turkey on a Bun,135041,Lunch,0,0,0,cash,low
+1101,Puppy Chow Snack Mix,135041,Lunch,0,0,0,cash,low
+1101,Beef Jerky,135041,Lunch,0,0,0,cash,low
+1101,Marinated Green Peppers,135041,Lunch,0,0,0,cash,low
+1101,East-West Flank Steak Wraps,135041,Lunch,0,0,0,cash,low
+1101,Cucumber and Cheddar Cheese Sandwiches,135041,Lunch,0,0,0,cash,low
+1101,Spicy Southwestern Meatball Soup,135041,Lunch,0,0,0,cash,low
+1101,Sloppy Joes,135041,Lunch,0,0,0,cash,low
+1101,Stuffed Cucumber Snacks,135041,Lunch,0,0,0,cash,low
+1101,Sugared Walnuts,135041,Lunch,0,0,0,cash,low
+1101,How to Toast Pecans,135041,Lunch,0,0,0,cash,low
+1101,Lomo de Cerdo,135041,Lunch,0,0,0,cash,low
+1101,Half-Time Shredded Beef Sandwiches,135041,Lunch,0,0,0,cash,low
+1101,Maultaschen (Swabian Pockets),135041,Lunch,0,0,0,cash,low
+1101,Pizza Pockets,135041,Lunch,0,0,0,cash,low
+1101,Sharp Turkey Hoagie,135041,Lunch,0,0,0,cash,low
+1101,Dried Figs,135041,Lunch,0,0,0,cash,low
+1101,Rice Paper Wrapped Chicken,135041,Lunch,0,0,0,cash,low
+1101,Gyros,135041,Lunch,0,0,0,cash,low
+1101,Boogers on a Stick,135041,Lunch,0,0,0,cash,low
+1101,Bugs in Dirt Sandwiches,135041,Lunch,0,0,0,cash,low
+1101,Homemade Dill Pickles,135041,Lunch,0,0,0,cash,low
+1101,Honey Dijon Mustard Chicken With Apricot,135041,Lunch,0,0,0,cash,low
+1101,Marinated Mushrooms,135041,Lunch,0,0,0,cash,low
+1101,Salmon Club Sandwich with Roasted Shallot Smear,135041,Lunch,0,0,0,cash,low
+1101,Spicy Pearl Onion Sours,135041,Lunch,0,0,0,cash,low
+1101,Pork Liver Pudding ( Spread / Dip ),135041,Lunch,0,0,0,cash,low
+1101,Cucumber Tea Sandwiches with Tarragon Butter,135041,Lunch,0,0,0,cash,low
+1101,Barbecued Chicken Sandwiches,135041,Lunch,0,0,0,cash,low
+1101,Tuna Pockets,135041,Lunch,0,0,0,cash,low
+1104,Mom's Popcorn Balls,135041,Lunch,1,2,1,VISA,medium
+1104,Italian Beef Sandwiches,135041,Lunch,1,2,1,VISA,medium
+1104,Italian Beef Sandwiches II,135041,Lunch,1,2,1,cash,medium
+1104,Steak and Artichoke Croissant Sandwiches,135041,Lunch,1,2,1,cash,medium
+1106,Garden Burger with Mushroom and Peppers,135041,Lunch,1,1,1,bank_debit_cards,medium
+1106,Tunisian Eggplant (Aubergine) Salad,135041,Lunch,1,1,1,bank_debit_cards,medium
+1106,Moroccan Eggplant (Aubergine) Salad I,135041,Lunch,1,1,1,cash,medium
+1106,A Real Philly Cheesesteak,135041,Lunch,1,1,1,cash,medium
+1126,Philly Cheesesteak Sandwich,135041,Lunch,2,1,1,cash,low
+1126,Cocktail Crisps,135041,Lunch,2,1,1,cash,low
+1135,Toasted Pumpkin Seeds ( Pepitas),135041,Lunch,0,0,0,cash,low
+1135,Pumpkin Seed Snack Combo,135041,Lunch,0,0,0,cash,low
+1135,Baked Caramel Corn II,135041,Lunch,0,0,0,cash,low
+1135,Cheese Toast,135041,Lunch,0,0,0,cash,low
+1135,Pesto Beef Sandwich-in-the-Round,135041,Lunch,0,0,0,cash,low
+1135,Crisp Lasagna Chips,135041,Lunch,0,0,0,cash,low
+1135,Beef Jerky II,135041,Lunch,0,0,0,cash,low
+1135,Phyllo-Wrapped Salmon with Roasted Red Peppers,135041,Lunch,0,0,0,cash,low
+1135,Spicy Fish Cakes,135041,Lunch,0,0,0,cash,low
+1135,Mustard Pickles,135041,Lunch,0,0,0,cash,low
+1135,Spicy Nuts,135041,Lunch,0,0,0,cash,low
+1135,Homemade Tortilla Chips,135041,Lunch,0,0,0,cash,low
+1135,Cinco de Mayo,135041,Lunch,0,0,0,cash,low
+1135,Wonderful Microwave Honey Roasted Nuts,135041,Lunch,0,0,0,cash,low
+1135,Chinese Chicken Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Cheese Bites,135041,Lunch,0,0,0,cash,low
+1135,Spiced Pecans,135041,Lunch,0,0,0,cash,low
+1135,Okonomiyaki - Japanese Pizza,135041,Lunch,0,0,0,cash,low
+1135,Corn Ball Fritters,135041,Lunch,0,0,0,cash,low
+1135,Sugared Pecans,135041,Lunch,0,0,0,cash,low
+1135,Spiced Sugared Pecans,135041,Lunch,0,0,0,cash,low
+1135,Mushroom-And-Roasted Pepper Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Frijoles Rancheros,135041,Lunch,0,0,0,cash,low
+1135,Shrimp Spring Rolls (Goi Cuon),135041,Lunch,0,0,0,cash,low
+1135,Sour Cream Pecans,135041,Lunch,0,0,0,cash,low
+1135,Sinfully Delicious Pecans,135041,Lunch,0,0,0,cash,low
+1135,Poor Boys-Italian Beef,135041,Lunch,0,0,0,cash,low
+1135,Roast Beef Poor Boys,135041,Lunch,0,0,0,cash,low
+1135,Working Woman's Poor Boys,135041,Lunch,0,0,0,cash,low
+1135,Dijon Dippers,135041,Lunch,0,0,0,cash,low
+1135,Pickled Pigs Feet,135041,Lunch,0,0,0,cash,low
+1135,Glazed Nuts,135041,Lunch,0,0,0,cash,low
+1135,Glazed Nuts II,135041,Lunch,0,0,0,cash,low
+1135,Day After Thanksgiving (Or Christmas) Turkey Wellington,135041,Lunch,0,0,0,cash,low
+1135,Pecan Blue Cheese Crackers,135041,Lunch,0,0,0,cash,low
+1135,Baked Sweet Potato Chips,135041,Lunch,0,0,0,cash,low
+1135,Roti and Beef Curry,135041,Lunch,0,0,0,cash,low
+1135,Avocado Dip,135041,Lunch,0,0,0,cash,low
+1135,Lemon-Garlic Olives,135041,Lunch,0,0,0,cash,low
+1135,Reuben Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Reuben Sandwich II,135041,Lunch,0,0,0,cash,low
+1135,Reuben Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,Salami,135041,Lunch,0,0,0,cash,low
+1135,Salami a la Fred,135041,Lunch,0,0,0,cash,low
+1135,Easy Pita Pockets,135041,Lunch,0,0,0,cash,low
+1135,Elvis Presley's Grilled Peanut Butter and Banana Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Microwave - American- Welsh Rarebit,135041,Lunch,0,0,0,cash,low
+1135,Open Faced Stroganoff Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Open-Faced Crab Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Grilled Salmon &amp; Cheddar Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,Cheddar Mushroom Open-Face Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Savory Cheddar Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,No-Bread Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,Sausage Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,Pickled Onions II,135041,Lunch,0,0,0,cash,low
+1135,Mini Monte Cristo Sandwich Appetizers,135041,Lunch,0,0,0,cash,low
+1135,Steak-Vegetable Pockets,135041,Lunch,0,0,0,cash,low
+1135,Bacon-Wrapped Turkey Burgers,135041,Lunch,0,0,0,cash,low
+1135,Pickled Eggs,135041,Lunch,0,0,0,cash,low
+1135,Hearty Garden Broccoli Soup,135041,Lunch,0,0,0,cash,low
+1135,"Bacon, Cheese, and Tomato Sandwiches",135041,Lunch,0,0,0,cash,low
+1135,Deviled Eggs and Noodles,135041,Lunch,0,0,0,cash,low
+1135,Half-Time Beef Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,Easy Dinner Party Marinated Mushrooms,135041,Lunch,0,0,0,cash,low
+1135,Mark's Famous Po-Boy,135041,Lunch,0,0,0,cash,low
+1135,Southwest Ham and Cheese,135041,Lunch,0,0,0,cash,low
+1135,Baked Stuffed Mushrooms Caps,135041,Lunch,0,0,0,cash,low
+1135,Souper Baked Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Baked Pizza Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Bacon-Wrapped Little Loaves,135041,Lunch,0,0,0,cash,low
+1135,Fair Funnel Cakes,135041,Lunch,0,0,0,cash,low
+1135,Trail Mix,135041,Lunch,0,0,0,cash,low
+1135,Tomato and Bread Soup,135041,Lunch,0,0,0,cash,low
+1135,"Fig, Cabrales, and Walnut Salad",135041,Lunch,0,0,0,cash,low
+1135,Turkey Club,135041,Lunch,0,0,0,cash,low
+1135,Pizza Potatoes,135041,Lunch,0,0,0,cash,low
+1135,Roasted Bartlett Pear Salad,135041,Lunch,0,0,0,cash,low
+1135,Broccoli Potato Calzone,135041,Lunch,0,0,0,cash,low
+1135,Jessica's Tuna Nut Salad,135041,Lunch,0,0,0,cash,low
+1135,Olive Garden Fettuccine Alfredo,135041,Lunch,0,0,0,cash,low
+1135,Quick Cream of Potato Soup,135041,Lunch,0,0,0,cash,low
+1135,lemon rice with coconut chutney,135041,Lunch,0,0,0,cash,low
+1135,Spicy Dal,135041,Lunch,0,0,0,cash,low
+1135,Caramel Rice,135041,Lunch,0,0,0,cash,low
+1135,Sour Dal,135041,Lunch,0,0,0,cash,low
+1135,Roomali Paneer,135041,Lunch,0,0,0,cash,low
+1135,Subru Uncle's Vegetarian Fried Rice,135041,Lunch,0,0,0,cash,low
+1135,Mic's Wonderful HOT Wings,135041,Lunch,0,0,0,cash,low
+1135,Bennigan's Baked Monte Cristo Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Ten-Minute Cheater's Pizza,135041,Lunch,0,0,0,cash,low
+1135,Quick Tava Rice,135041,Lunch,0,0,0,cash,low
+1135,Onion and Yoghurt Dip,135041,Lunch,0,0,0,cash,low
+1135,Pudina Paneer,135041,Lunch,0,0,0,cash,low
+1135,Godi Dal,135041,Lunch,0,0,0,cash,low
+1135,Lime-Cilantro Shrimp,135041,Lunch,0,0,0,cash,low
+1135,Tabouli,135041,Lunch,0,0,0,cash,low
+1135,Spicy Green Rice,135041,Lunch,0,0,0,cash,low
+1135,Fruited Spring Salad,135041,Lunch,0,0,0,cash,low
+1135,Aunt Sue's No Bean Chili Dip,135041,Lunch,0,0,0,cash,low
+1135,Trout Deirdre,135041,Lunch,0,0,0,cash,low
+1135,Sue's Seafood Jambalaya,135041,Lunch,0,0,0,cash,low
+1135,"Mughlai Phulgobi (Cauliflower stuffed with solidified milk, nuts and spices)",135041,Lunch,0,0,0,cash,low
+1135,Mushrooms la Grecque,135041,Lunch,0,0,0,cash,low
+1135,Kabuli Channa,135041,Lunch,0,0,0,cash,low
+1135,Palak ki Puri ( A puri made of fresh spinach),135041,Lunch,0,0,0,cash,low
+1135,Picadillo (No Raisins),135041,Lunch,0,0,0,cash,low
+1135,Monte Cristo Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Dahi Luchi,135041,Lunch,0,0,0,cash,low
+1135,Cinnamon Cucumber Rings,135041,Lunch,0,0,0,cash,low
+1135,Kashmiri Kofta,135041,Lunch,0,0,0,cash,low
+1135,Kashmiri Dahi,135041,Lunch,0,0,0,cash,low
+1135,Plain Raita,135041,Lunch,0,0,0,cash,low
+1135,Cabbage Rice,135041,Lunch,0,0,0,cash,low
+1135,Kashmiri Methi Chaman,135041,Lunch,0,0,0,cash,low
+1135,Quinoa with Roasted Veggies and Goddess Dressing,135041,Lunch,0,0,0,cash,low
+1135,Spinach in Spicy Yoghurt (Palak Raita),135041,Lunch,0,0,0,cash,low
+1135,Turkey Loaf,135041,Lunch,0,0,0,cash,low
+1135,Grandma's Waldorf Salad,135041,Lunch,0,0,0,cash,low
+1135,Tato Boats,135041,Lunch,0,0,0,cash,low
+1135,Mouthwatering Pepper Chicken with Gravy,135041,Lunch,0,0,0,cash,low
+1135,Tangy Tamarind Chicken,135041,Lunch,0,0,0,cash,low
+1135,Hot Dorito Dip,135041,Lunch,0,0,0,cash,low
+1135,Quick Quesadillas,135041,Lunch,0,0,0,cash,low
+1135,Marinated Veggie Kebabs,135041,Lunch,0,0,0,cash,low
+1135,Ritz Breaded Pork Chops,135041,Lunch,0,0,0,cash,low
+1135,Vegan Corn Dogs,135041,Lunch,0,0,0,cash,low
+1135,Vegetarian White Bean Soup,135041,Lunch,0,0,0,cash,low
+1135,Curried Pecans,135041,Lunch,0,0,0,cash,low
+1135,Lisa's Version of Carole's Enchiladas,135041,Lunch,0,0,0,cash,low
+1135,Curried Chicken and Peach Salad,135041,Lunch,0,0,0,cash,low
+1135,Nutty Bacon Coleslaw,135041,Lunch,0,0,0,cash,low
+1135,Grumpy Joes,135041,Lunch,0,0,0,cash,low
+1135,Mutton Masala,135041,Lunch,0,0,0,cash,low
+1135,Methi ni Bhakri,135041,Lunch,0,0,0,cash,low
+1135,Masala Koki,135041,Lunch,0,0,0,cash,low
+1135,Orzo Salad With Corn and Cucumber-Feta Dressing,135041,Lunch,0,0,0,cash,low
+1135,Mediterranean Tabouli,135041,Lunch,0,0,0,cash,low
+1135,Deluxe Coleslaw,135041,Lunch,0,0,0,cash,low
+1135,Tamales,135041,Lunch,0,0,0,cash,low
+1135,Tasty and Crispy Fried Whole Chicken,135041,Lunch,0,0,0,cash,low
+1135,Butter Chicken,135041,Lunch,0,0,0,cash,low
+1135,Chicken Wonton Recipe,135041,Lunch,0,0,0,cash,low
+1135,Cold Chicken Salad,135041,Lunch,0,0,0,cash,low
+1135,Mussels in Wine and Cream,135041,Lunch,0,0,0,cash,low
+1135,Low-Fat Spanish Rice,135041,Lunch,0,0,0,cash,low
+1135,chicken filling for tacos & burritos,135041,Lunch,0,0,0,cash,low
+1135,Mexican Potato Salad,135041,Lunch,0,0,0,cash,low
+1135,Fajita Quesadillas,135041,Lunch,0,0,0,cash,low
+1135,Stuffed Olives,135041,Lunch,0,0,0,cash,low
+1135,Yummy Fish Pie,135041,Lunch,0,0,0,cash,low
+1135,Khameera Naan,135041,Lunch,0,0,0,cash,low
+1135,Southern Barbecued Bean Casserole,135041,Lunch,0,0,0,cash,low
+1135,Char's Cajun Beef &amp; Sausage Stuffed Bell Peppers,135041,Lunch,0,0,0,cash,low
+1135,Potato and Ham Soup,135041,Lunch,0,0,0,cash,low
+1135,Bar H Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,Stuffed Reuben Sandwiches,135041,Lunch,0,0,0,cash,low
+1135,30 Second Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Zucchini Pineapple,135041,Lunch,0,0,0,cash,low
+1135,Tortilla Dip Supreme,135041,Lunch,0,0,0,cash,low
+1135,Taco Oyster Crackers,135041,Lunch,0,0,0,cash,low
+1135,Roasted Pepper Salsa Dip,135041,Lunch,0,0,0,cash,low
+1135,Wasabi Grilled Tuna,135041,Lunch,0,0,0,cash,low
+1135,Italian Fondue for Crock Pot,135041,Lunch,0,0,0,cash,low
+1135,Dal Makhani,135041,Lunch,0,0,0,cash,low
+1135,Barbecue Portabella Chicken Pizza,135041,Lunch,0,0,0,cash,low
+1135,Salami,135041,Lunch,0,0,0,cash,low
+1135,Stuffed Sausage Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Cheeseburger Mashed Potato Pie,135041,Lunch,0,0,0,cash,low
+1135,Creamed Peas On Toast,135041,Lunch,0,0,0,cash,low
+1135,Norwegian Steak,135041,Lunch,0,0,0,cash,low
+1135,Curried Eggs,135041,Lunch,0,0,0,cash,low
+1135,Crackling Zucchini !,135041,Lunch,0,0,0,cash,low
+1135,Oakhill Potatoes,135041,Lunch,0,0,0,cash,low
+1135,Mom's Dill Beans (Pickled),135041,Lunch,0,0,0,cash,low
+1135,Turkish 'kofte' Sandwich,135041,Lunch,0,0,0,cash,low
+1135,Aunt Edna's Dill Pickles,135041,Lunch,0,0,0,cash,low
+1135,Music Parents Famous Frito Pie,135041,Lunch,0,0,0,cash,low
+1135,Beau Monde Dip,135041,Lunch,0,0,0,cash,low
+1135,Spinach Dip,135041,Lunch,0,0,0,cash,low
+1135,Mountains Raclette,135041,Lunch,0,0,0,cash,low
+1135,Tasty Fish & Potato Pie,135041,Lunch,0,0,0,cash,low
+1135,Dilly Beans,135041,Lunch,0,0,0,cash,low
+1135,Grandma Flo's German Potato Salad,135041,Lunch,0,0,0,cash,low
+1135,Cold Picnic Potato Salad,135041,Lunch,0,0,0,cash,low
+1135,Tropical Chicken Salad,135041,Lunch,0,0,0,cash,low
+1135,Baked Chicken Salad,135041,Lunch,0,0,0,cash,low
+1135,Cauliflower Summer Salad,135041,Lunch,0,0,0,cash,low
+1135,Cherry Fluff Salad,135041,Lunch,0,0,0,cash,low
+1135,Baked Potatoes Mornay,135041,Lunch,0,0,0,cash,low
+1135,Garlic fried Peanuts,135041,Lunch,0,0,0,cash,low
+1135,Veggie Pizza,135041,Lunch,0,0,0,cash,low
+1135,Broccoli Pork,135041,Lunch,0,0,0,cash,low
+1135,Warm Lamb and Pasta Salad,135041,Lunch,0,0,0,cash,low
+1135,Tomato and Basil Quiche,135041,Lunch,0,0,0,cash,low
+1135,Chinese Chicken and Broccoli,135041,Lunch,0,0,0,cash,low
+1135,Pizza Burgers,135041,Lunch,0,0,0,cash,low
+1135,Solo Baked Chicken Breast,135041,Lunch,0,0,0,cash,low
+1135,Chicken Cordon Bleu,135041,Lunch,0,0,0,cash,low
+1135,English Cottage Pie,135041,Lunch,0,0,0,cash,low
+1135,Spread -A- Burger,135041,Lunch,0,0,0,cash,low
+1135,Porcupine Meatballs,135041,Lunch,0,0,0,cash,low
+1135,Classic Crock Pot Sloppy Joes,135041,Lunch,0,0,0,cash,low
+1135,Potato and Egg Salad for the Lazy,135041,Lunch,0,0,0,cash,low
+1135,Burritos Con Frijoles Refritos,135041,Lunch,0,0,0,cash,low
+1135,Nacho Fries,135041,Lunch,0,0,0,cash,low
+1135,"Turkey, Bacon Pasta Salad With Lemon Basil Dressing",135041,Lunch,0,0,0,cash,low
+1002,Beef and Salsa Burritos,132925,Lunch,1,1,2,cash,low
+1027,Beef Chili'N Cheddar Potatoes,132925,Lunch,1,1,1,cash,low
+1090,Homemade Beefaroni,132925,Lunch,2,2,2,cash,medium
+1128,Stuffed Spaghetti Squash,132925,Lunch,0,0,0,cash,low
+1128,Fried Apples,132925,Lunch,0,0,0,cash,low
+1128,Colcannon,132925,Lunch,0,0,0,cash,low
+1128,Sweet Peas and Carrots in a tomato sauce,132925,Lunch,0,0,0,cash,low
+1138,Potato And Herb Bisque,132925,Lunch,1,2,1,cash,medium
+1003,Shawarma,135075,Lunch,2,2,2,cash,low
+1006,Almond-Crusted Goat Cheese Salad With Raspberry Dressing,135075,Lunch,1,1,2,cash,medium
+1013,Garlic-Lime Shrimp,135075,Lunch,2,2,1,MasterCard-Eurocard,medium
+1013,Salade Nicoise With Mint-Lemon Dressing,135075,Lunch,2,2,1,cash,medium
+1033,Thai Pumpkin Ginger Soup,135075,Lunch,2,1,0,cash,low
+1055,Jalapeno Chicken,135075,Lunch,2,2,2,cash,medium
+1057,"Red Cabbage, Apple and Caraway Soup",135075,Lunch,0,1,1,cash,medium
+1057,The Bomb Burgers,135075,Lunch,0,1,1,VISA,medium
+1059,Coconut Shrimp,135075,Lunch,2,2,1,cash,medium
+1061,Mussel Thai Noodle Bowl,135075,Lunch,2,2,2,cash,medium
+1061,Quick & Easy Rice & Tuna Dish,135075,Lunch,2,2,2,bank_debit_cards,medium
+1091,Quick and Easy Party Dip,135075,Lunch,2,2,2,cash,low
+1091,Nacho Popcorn,135075,Lunch,2,2,2,cash,low
+1096,Cool Veggie Pizza,135075,Lunch,1,2,1,cash,medium
+1108,Noodle and Cheese Bake,135075,Lunch,2,2,2,VISA,medium
+1108,Killer Buffalo Wings,135075,Lunch,2,2,2,cash,medium
+1108,Bbq Beef for Sandwiches,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Imitation Crab Salad,135075,Lunch,2,2,2,VISA,medium
+1108,Greek Garden Kabobs/Kebabs,135075,Lunch,2,2,2,cash,medium
+1108,Cucumber Chicken Pitas,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Harissa,135075,Lunch,2,2,2,VISA,medium
+1108,Corn 'n Spaghetti,135075,Lunch,2,2,2,cash,medium
+1108,Curry Tuna Fish Sandwiches,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Black Bean Burgers,135075,Lunch,2,2,2,VISA,medium
+1108,Pizza Pie,135075,Lunch,2,2,2,cash,medium
+1108,Tangy Homemade Salad Dressing,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Vegetable Fried Rice,135075,Lunch,2,2,2,VISA,medium
+1108,Pasta Fagioli,135075,Lunch,2,2,2,cash,medium
+1108,Middle Eastern Pita Sandwiches,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Creamy Potato and Green Onion Soup,135075,Lunch,2,2,2,VISA,medium
+1108,Monte Cristo Sandwiches,135075,Lunch,2,2,2,cash,medium
+1108,Crab Stuffed Portabella Mushrooms,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Gyros,135075,Lunch,2,2,2,VISA,medium
+1108,Green Peppers With Tomato Sauce,135075,Lunch,2,2,2,cash,medium
+1108,Couscous with Chicken and Tomatoes,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Magaritsa,135075,Lunch,2,2,2,VISA,medium
+1108,White Fish Fritters,135075,Lunch,2,2,2,cash,medium
+1108,Tzatziki,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Souvlaki,135075,Lunch,2,2,2,VISA,medium
+1108,Easy Bake Salmon,135075,Lunch,2,2,2,cash,medium
+1108,Bean Soup (Fasolatha),135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Fassolia Gigantes Plaki (Giant Beans Baked in the Oven),135075,Lunch,2,2,2,VISA,medium
+1108,Irish Fish Pie (aka Cod Cobbler),135075,Lunch,2,2,2,cash,medium
+1108,Kalamarakia Tiganita (Fried Squid),135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Mediterranean Vegetable Pizza,135075,Lunch,2,2,2,VISA,medium
+1108,Greek Salad,135075,Lunch,2,2,2,cash,medium
+1108,Savoury Fish Steaks,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Chicken with Lemon,135075,Lunch,2,2,2,VISA,medium
+1108,Alaskan Curried Shrimp,135075,Lunch,2,2,2,cash,medium
+1108,Saganaki - (Fried Cheese With Egg),135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Gemista,135075,Lunch,2,2,2,VISA,medium
+1108,Homemade Ravioli,135075,Lunch,2,2,2,cash,medium
+1108,Pork Pear Casserole,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Low Carb Savory Italian Grilled Chicken,135075,Lunch,2,2,2,VISA,medium
+1108,Asparagus Pasta with Pesto,135075,Lunch,2,2,2,cash,medium
+1108,Garlic Spaghetti Sauce,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Italian Chicken Ravioli,135075,Lunch,2,2,2,VISA,medium
+1108,Dill Dip,135075,Lunch,2,2,2,cash,medium
+1108,Asparagus With Hollandaise,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Shrimp in Tomato Cream Curry Sauce,135075,Lunch,2,2,2,VISA,medium
+1108,Italian Zucchini Lasagna,135075,Lunch,2,2,2,cash,medium
+1108,Mexican Sour Cream and Cheese  Enchiladas,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Smoked Salmon Pasta,135075,Lunch,2,2,2,VISA,medium
+1108,Italian Shrimp Fettuccine,135075,Lunch,2,2,2,cash,medium
+1108,Quick Mexican Cheese Enchiladas,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Anchovy Crostini,135075,Lunch,2,2,2,VISA,medium
+1108,Pasta Asciutta,135075,Lunch,2,2,2,cash,medium
+1108,Picnic; Orange-Apricot-Yogurt Soup,135075,Lunch,2,2,2,MasterCard-Eurocard,medium
+1134,Fresh Tomato Spaghetti Sauce,135075,Lunch,2,1,1,cash,medium
+1137,Skor Chip Apple Dip,135075,Lunch,2,2,2,cash,low
+1003,Mimosa Salad,132937,Lunch,2,2,1,cash,low
+1027,Cookie Granola Topping,132937,Lunch,1,1,1,cash,low
+1029,Garlic Parmesan Spaghetti Sauce,132937,Lunch,1,1,1,cash,low
+1086,Tomato Sauce,132937,Lunch,2,0,1,VISA,medium
+1086,Baked Trout with Garlic & Mushrooms,132937,Lunch,2,0,1,bank_debit_cards,medium
+1086,White Clam Spaghetti Sauce,132937,Lunch,2,0,1,cash,medium
+1003,EZ Macaroni Surprise,132922,Lunch,2,2,2,cash,low
+1006,Italian Grilled Shrimp Scampi,132922,Lunch,2,1,2,cash,medium
+1029,Sausage Cavatelli,132922,Lunch,1,1,1,cash,low
+1086,Schwenk,132922,Lunch,2,1,2,VISA,medium
+1086,Boozy Bourbon Chicken,132922,Lunch,2,1,2,bank_debit_cards,medium
+1086,Sticky Rice (Glutinous Rice / Kow Neyo),132922,Lunch,2,1,2,cash,medium
+1090,Avgolemono Soup (Chicken Soup),132922,Lunch,2,2,2,cash,medium
+1138,Diced Chicken with Basil,132922,Lunch,2,2,2,cash,medium
+1003,Indian Chicken Curry,132723,Lunch,2,2,1,cash,low
+1034,Fasolatha (Greek Bean Soup),132723,Lunch,1,0,1,cash,medium
+1048,Avgolemono Sauce,132723,Lunch,2,2,2,cash,medium
+1061,Loutzoukaxia (Different Lentil Recipe),132723,Lunch,2,2,1,cash,medium
+1061,Roasted Garlic/Chicken Soup,132723,Lunch,2,2,1,bank_debit_cards,medium
+1083,Soupa Nisiotiki (Island Soup),132723,Lunch,1,1,1,cash,high
+1084,Bifteki,132723,Lunch,1,0,1,cash,medium
+1092,Giavourlakia Avgolemono (Lamb and Rice Meatballs),132723,Lunch,1,1,1,cash,medium
+1095,Steamed Mussels With Wine and Cream,132723,Lunch,2,2,2,cash,medium
+1096,Lamb Exohiko,132723,Lunch,1,2,1,cash,medium
+1108,Bourekakia (Meat Triangles),132723,Lunch,2,2,2,VISA,medium
+1108,Salata Marouli (Romaine Lettuce Salad),132723,Lunch,2,2,2,cash,medium
+1108,Fasolakia (Green Bean Side Dish),132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Spicy Skewered Chicken,132723,Lunch,2,2,2,VISA,medium
+1108,Beefy Biscuit Cups,132723,Lunch,2,2,2,cash,medium
+1108,Danish White Cucumber Pickles,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Briam  New and Improved ! !  Melt in Your Mouth Good!,132723,Lunch,2,2,2,VISA,medium
+1108,Patzaria Salata (Beet Salad),132723,Lunch,2,2,2,cash,medium
+1108,Cheating Scalloped Potatoes,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Broiled Tofu or Tempeh,132723,Lunch,2,2,2,VISA,medium
+1108,Pilafi (Greek Style Rice),132723,Lunch,2,2,2,cash,medium
+1108,Goat Cheese &amp; Black Olive Mashed Potatoes,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Bifteki (Hamburger Patties),132723,Lunch,2,2,2,VISA,medium
+1108,Chicken Manestra (Orzo),132723,Lunch,2,2,2,cash,medium
+1108,Braised Chicken in Soya Sauce,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Potato Burgers,132723,Lunch,2,2,2,VISA,medium
+1108,Fried Tofu,132723,Lunch,2,2,2,cash,medium
+1108,Lamb Fricassee,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,"Bergy Dim Sum #2, Pork &amp; Prawn Wraps",132723,Lunch,2,2,2,VISA,medium
+1108,Bergy Dim Sum #4 Roasted Spareribs,132723,Lunch,2,2,2,cash,medium
+1108,Prawn & Scallop Casserole,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,"Bergy Dim Sum #7, Mandarin Pancakes",132723,Lunch,2,2,2,VISA,medium
+1108,"Bergy Dim Sum #10, Honey Soy Braised Chicken Wings",132723,Lunch,2,2,2,cash,medium
+1108,"Bergy Dim Sum #5, Steamed Shrimp Dumplings",132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Greek Hamburgers,132723,Lunch,2,2,2,VISA,medium
+1108,"Asparagus, Oven-Roasted",132723,Lunch,2,2,2,cash,medium
+1108,Aubergine or Eggplant Salad,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Beef Steak,132723,Lunch,2,2,2,VISA,medium
+1108,Greek Homestyle Chicken,132723,Lunch,2,2,2,cash,medium
+1108,Greek Burgers,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Salata me Spanakofeta (Beet and Spinach Salad),132723,Lunch,2,2,2,VISA,medium
+1108,Bergy Dim Sum #6 Steamed sweet Bean Buns,132723,Lunch,2,2,2,cash,medium
+1108,Greek Fish,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,"Bergy Dim Sum #9, SteamedRice Bundles with Chicken and mushrooms",132723,Lunch,2,2,2,VISA,medium
+1108,Crisp Tuna Balls,132723,Lunch,2,2,2,cash,medium
+1108,Ten Variety Fried Noodles (Chow Mein),132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,"Bergy Dim Sum #4, Moo Shoo Pork",132723,Lunch,2,2,2,VISA,medium
+1108,EASY Freezer Sweet Pickles,132723,Lunch,2,2,2,cash,medium
+1108,Baked Beets & Shallots,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Crabmeat Canapes - Appetizers,132723,Lunch,2,2,2,VISA,medium
+1108,Baked Chimichangas,132723,Lunch,2,2,2,cash,medium
+1108,Carrots & Onions ala Chocolate,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Really Crispy Spicy Cajun Fried Chicken,132723,Lunch,2,2,2,VISA,medium
+1108,Sweet &amp; Sour Zucchini,132723,Lunch,2,2,2,cash,medium
+1108,Fried Potatoes Without the Fry,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Chicken Stromboli,132723,Lunch,2,2,2,VISA,medium
+1108,Boiled Ham,132723,Lunch,2,2,2,cash,medium
+1108,Baby Zucchini Boats,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,"Brie or Camembert, Baked",132723,Lunch,2,2,2,VISA,medium
+1108,Prawns With Garlic,132723,Lunch,2,2,2,cash,medium
+1108,Quick Chicken Kebabs,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1108,Spinach 'n Onions,132723,Lunch,2,2,2,VISA,medium
+1108,Zucchini with Bacon & Cheese,132723,Lunch,2,2,2,cash,medium
+1108,Salsa '93,132723,Lunch,2,2,2,MasterCard-Eurocard,medium
+1114,Spaghetti Casserole,132723,Lunch,0,0,0,cash,medium
+1137,Newfoundland Cod Cakes,132723,Lunch,2,2,2,cash,low
+1003,Spinach and Feta Phyllo Parcels,132755,Lunch,2,2,1,cash,low
+1048,Cheesy Sesame-Coated Chicken,132755,Lunch,2,2,2,cash,medium
+1083,Italian Spinach Gnocchi,132755,Lunch,2,2,2,cash,high
+1114,Lime Pickles,132755,Lunch,1,2,1,cash,medium
+1137,Egg Foo Yong,132755,Lunch,2,2,2,cash,low
+1003,Mexican Layer Dip - Low Fat,135079,Lunch,2,2,2,cash,low
+1006,Yam 'n Butternut Squash Mash,135079,Lunch,1,1,1,cash,medium
+1009,"Raisins, Nuts n' Bulgur",135079,Lunch,1,2,2,cash,medium
+1009,"Cucumber, Feta, and Mint Salad",135079,Lunch,1,2,2,cash,medium
+1009,Crab Stuffed Snow-Peas,135079,Lunch,1,2,2,cash,medium
+1009,Grilled Chicken Dijon,135079,Lunch,1,2,2,cash,medium
+1009,Grandma Dora's Quick Noodles 'n Cheese,135079,Lunch,1,2,2,cash,medium
+1009,Stuffed Tomatoes,135079,Lunch,1,2,2,cash,medium
+1009,Hash Tart,135079,Lunch,1,2,2,cash,medium
+1010,Tomato Pie,135079,Lunch,0,0,0,cash,medium
+1013,Hamming It Up Noodle 'n Cabbage casserole,135079,Lunch,1,1,1,MasterCard-Eurocard,medium
+1013,BBQ Chicken on a Stick,135079,Lunch,1,1,1,cash,medium
+1019,Yalanchi Stuffed Tomatoes,135079,Lunch,0,0,0,cash,medium
+1032,"Marinara, Seafood Pasta",135079,Lunch,2,2,0,cash,medium
+1036,Baby Greens with Mustard Vinaigrette,135079,Lunch,2,2,2,cash,medium
+1089,Adult Popcorn,135079,Lunch,0,0,0,cash,low
+1097,Rieder's Bouja,135079,Lunch,2,1,0,cash,medium
+1098,"Beef ""N"" Onion Soup",135079,Lunch,2,1,1,cash,medium
+1106,Haystacks (Or Chinese Sundaes),135079,Lunch,2,2,2,bank_debit_cards,medium
+1106,"Orecchiette  With Spinach, Garlic  and Bacon",135079,Lunch,2,2,2,cash,medium
+1112,Beer Vichyssoise,135079,Lunch,1,0,0,cash,medium
+1113,Caramel Corn,135079,Lunch,1,2,1,VISA,medium
+1113,Spicy Chicken Salad,135079,Lunch,1,2,1,cash,medium
+1128,Sweet & Sour Beets,135079,Lunch,0,0,0,cash,low
+1128,Do Ahead Chicken Casserole,135079,Lunch,0,0,0,cash,low
+1128,Mom's Fruit Salad,135079,Lunch,0,0,0,cash,low
+1128,Hot Meatball Sandwiches,135079,Lunch,0,0,0,cash,low
+1134,Hungarian Goulash with Sauerkraut,135079,Lunch,1,1,2,cash,medium
+1003,Marinated Mushrooms,132754,Lunch,2,2,2,cash,low
+1009,Stir fried Garlic Beef with Broccoli,132754,Lunch,1,2,1,cash,medium
+1009,John's Killer Quesadillas,132754,Lunch,1,2,1,cash,medium
+1009,Corn and Rice,132754,Lunch,1,2,1,cash,medium
+1009,Italian Tomato Zucchini Quiche,132754,Lunch,1,2,1,cash,medium
+1009,Cheesy Zucchini Quiche,132754,Lunch,1,2,1,cash,medium
+1009,Sprouts and potato salad in Orange juice,132754,Lunch,1,2,1,cash,medium
+1009,Rice Noodles with Coconut-Cashew Sauce,132754,Lunch,1,2,1,cash,medium
+1029,Turkey Stuffed Yellow &amp; Red Bell Peppers,132754,Lunch,0,0,0,cash,low
+1036,BBQ Brats 'n Beer,132754,Lunch,2,2,2,cash,medium
+1053,Easy Mustard Chicken,132754,Lunch,1,2,1,cash,low
+1055,Beef Jerky,132754,Lunch,2,2,2,cash,medium
+1059,Turkey Sloppy Joes,132754,Lunch,2,2,2,cash,medium
+1061,vegetable dip,132754,Lunch,2,2,2,cash,medium
+1061,Millet Burgers,132754,Lunch,2,2,2,bank_debit_cards,medium
+1089,"Ukrainian Perogies, for Beginners",132754,Lunch,1,1,1,cash,low
+1106,Caffeine Jolt Chicken,132754,Lunch,2,2,1,bank_debit_cards,medium
+1106,Pork Pie (Raised),132754,Lunch,2,2,1,cash,medium
+1114,Refried Bean Soup,132754,Lunch,0,0,0,cash,medium
+1134,Asian Chicken,132754,Lunch,2,1,1,cash,medium
+1004,Satisfying Sauerkraut Salad,135060,Lunch,1,1,1,cash,medium
+1004,Chicken and Sweet Potato Croquettes,135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,Cantaloupe Soup,135060,Lunch,1,1,1,cash,medium
+1004,Sunny Burgers,135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,Garlic Chicken Nibbles and a Dill Dip,135060,Lunch,1,1,1,cash,medium
+1004,"Baked Stuffed Butternut Squash, Vegetarian",135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,Penne With Broccoli &amp; Garlic,135060,Lunch,1,1,1,cash,medium
+1004,Greek Pita Lunch,135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,Orange Sesame Rice,135060,Lunch,1,1,1,cash,medium
+1004,BBQ Italian Sausage &amp; Pepper on a Bun,135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,Corn Fritters,135060,Lunch,1,1,1,cash,medium
+1004,Pickled Northern ( Imitation Herring),135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,Spicy Jerky,135060,Lunch,1,1,1,cash,medium
+1004,Diana's Fried Chicken,135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,Bean 'n Cheese Stuffed Wrappers,135060,Lunch,1,1,1,cash,medium
+1004,Hamburger Sausage,135060,Lunch,1,1,1,bank_debit_cards,medium
+1004,BBQ Minted ZOOK skewers,135060,Lunch,1,1,1,cash,medium
+1004,Chicken Fans,135060,Lunch,1,1,1,bank_debit_cards,medium
+1009,Chilie Poached Prawns,135060,Lunch,1,1,1,cash,medium
+1009,Cheese Dip - Spicy,135060,Lunch,1,1,1,cash,medium
+1009,Chili Macaroni and Cheese,135060,Lunch,1,1,1,cash,medium
+1009,"Poifect Cluck, Cluck Burgers (Chicken Burgers)",135060,Lunch,1,1,1,cash,medium
+1009,Muffuletta,135060,Lunch,1,1,1,cash,medium
+1009,Philadelphia Cheesesteak,135060,Lunch,1,1,1,cash,medium
+1009,BBQ Tofu Kabobs,135060,Lunch,1,1,1,cash,medium
+1013,Shrimp and Okra,135060,Lunch,1,1,0,MasterCard-Eurocard,medium
+1013,Creamy Vegetable soup,135060,Lunch,1,1,0,cash,medium
+1016,Knottsberry Farm Meatloaf,135060,Lunch,2,2,2,cash,medium
+1016,Swedish Cremes,135060,Lunch,2,2,2,cash,medium
+1016,Stuffed Bell Peppers,135060,Lunch,2,2,2,cash,medium
+1016,Egg Rolls,135060,Lunch,2,2,2,cash,medium
+1016,BBQ Sweet Patootie Wedges,135060,Lunch,2,2,2,cash,medium
+1016,Leftover Beef Enchiladas,135060,Lunch,2,2,2,cash,medium
+1016,Marinated Mushrooms,135060,Lunch,2,2,2,cash,medium
+1016,Simple Potato Curry,135060,Lunch,2,2,2,cash,medium
+1016,Cabbage Guacamole,135060,Lunch,2,2,2,cash,medium
+1016,Grilled Ginger Garlic Chicken Breasts,135060,Lunch,2,2,2,cash,medium
+1016,Marinated Olives,135060,Lunch,2,2,2,cash,medium
+1016,Outback Bloomin' Onion,135060,Lunch,2,2,2,cash,medium
+1016,Feta and Red Pepper Pie,135060,Lunch,2,2,2,cash,medium
+1016,'90s Style Meatloaf,135060,Lunch,2,2,2,cash,medium
+1022,Feta Mint Cheeseburgers,135060,Lunch,1,1,2,cash,medium
+1032,Red Pepper and Sun-Dried Tomato Pate,135060,Lunch,1,1,1,cash,medium
+1045,Baked Spinach Stuffed Tomatoes,135060,Lunch,2,2,2,cash,high
+1045,Butter Beans and Bacon Stroganoff,135060,Lunch,2,2,2,cash,high
+1045,Beer Nuts,135060,Lunch,2,2,2,cash,high
+1045,"Bacon, Egg and Asparagus Pie",135060,Lunch,2,2,2,cash,high
+1053,Fruited Cabbage Salad,135060,Lunch,2,2,1,cash,low
+1054,Butter Bean Soup With Watercress,135060,Lunch,2,2,2,cash,medium
+1064,Fusilli Four Color Pasta,135060,Lunch,1,0,1,cash,medium
+1071,Baked Potatoes Florentine,135060,Lunch,1,2,2,cash,high
+1073,Hot Crab Dip,135060,Lunch,0,0,0,cash,medium
+1077,Italian Pickled Mushrooms,135060,Lunch,1,2,2,VISA,medium
+1077,Deviled Eggs,135060,Lunch,1,2,2,cash,medium
+1077,Pasta With Avocado,135060,Lunch,1,2,2,bank_debit_cards,medium
+1078,Mexican Pinwheels,135060,Lunch,2,2,2,VISA,medium
+1078,Puffed up Chiles Rellenos,135060,Lunch,2,2,2,bank_debit_cards,medium
+1078,Sarah's Fabulous Summer Pasta Salad,135060,Lunch,2,2,2,cash,medium
+1086,Curried Fresh Pea Soup,135060,Lunch,1,1,1,VISA,medium
+1086,Potato Cake,135060,Lunch,1,1,1,bank_debit_cards,medium
+1086,Pinto Bean and Corn Soup,135060,Lunch,1,1,1,cash,medium
+1098,Green Salad With Tortilla Strips and Queso Fresco,135060,Lunch,2,1,2,cash,medium
+1099,Fabulous Fettuccine,135060,Lunch,2,2,2,cash,high
+1099,Patty Melts,135060,Lunch,2,2,2,VISA,high
+1116,"Saucy Bok Choy, Sprouts and Noodles",135060,Lunch,0,0,0,cash,medium
+1116,Oatmeal Soup,135060,Lunch,0,0,0,bank_debit_cards,medium
+1116,Pumpkin Soup With Coriander Paste,135060,Lunch,0,0,0,VISA,medium
+1125,Roasted pumpkin seeds,135060,Lunch,1,0,2,cash,low
+1128,Pepper Shrimp,135060,Lunch,0,0,0,cash,low
+1128,Creamy Mange-Tout &amp; Beetroot Salad,135060,Lunch,0,0,0,cash,low
+1128,North Carolina Pulled Pork,135060,Lunch,0,0,0,cash,low
+1128,Turkish Chili,135060,Lunch,0,0,0,cash,low
+1135,Stuffed Chard (Brenda Pulvermacher - Quadra Island),135060,Lunch,0,0,0,cash,low
+1135,Italian Potato Casserole with Sweet Peppers,135060,Lunch,0,0,0,cash,low
+1135,Hearty Potato Soup,135060,Lunch,0,0,0,cash,low
+1135,Rye Bread and Dill Dip,135060,Lunch,0,0,0,cash,low
+1135,Hot & Spicy Braised Prawns,135060,Lunch,0,0,0,cash,low
+1135,Hot Sausage Cheese Dip,135060,Lunch,0,0,0,cash,low
+1135,John's Killer Sausage and Peppers,135060,Lunch,0,0,0,cash,low
+1135,Ham and Swiss in a Bun,135060,Lunch,0,0,0,cash,low
+1135,Cajun Chex Mix,135060,Lunch,0,0,0,cash,low
+1135,Quince-Ginger Marmalade (Jam),135060,Lunch,0,0,0,cash,low
+1135,Macaroni Salad,135060,Lunch,0,0,0,cash,low
+1135,Quick Chicken Mozzarella Sandwiches,135060,Lunch,0,0,0,cash,low
+1135,Mushroom Lasagna,135060,Lunch,0,0,0,cash,low
+1135,Fresh Tomato and Garlic Soup,135060,Lunch,0,0,0,cash,low
+1135,Lox  Cornucopia  Appetizer,135060,Lunch,0,0,0,cash,low
+1135,Fish Turbans,135060,Lunch,0,0,0,cash,low
+1135,Creamy Crunchy Tuna Casserole,135060,Lunch,0,0,0,cash,low
+1135,Broccoli 'n Red Peppers Stir Fried,135060,Lunch,0,0,0,cash,low
+1135,Mexican Pork with Escabeche Spice Rub,135060,Lunch,0,0,0,cash,low
+1135,Hot and Sour Turkey Soup,135060,Lunch,0,0,0,cash,low
+1135,&quot;the Continental&quot; Muffin Sandwiches,135060,Lunch,0,0,0,cash,low
+1135,Minced Chicken Patties,135060,Lunch,0,0,0,cash,low
+1135,"Mexican Enchiladas De Pavo Con Verde, Turkey Enchiladas With Gre",135060,Lunch,0,0,0,cash,low
+1135,Chicken Fried Steak W/Cream Gravy,135060,Lunch,0,0,0,cash,low
+1135,Ham Roll-Ups,135060,Lunch,0,0,0,cash,low
+1135,Biff's Sweet Sour Shrimp and Pasta,135060,Lunch,0,0,0,cash,low
+1135,Tomato Pasta Salad,135060,Lunch,0,0,0,cash,low
+1135,Creamy Spicy Carrot Soup,135060,Lunch,0,0,0,cash,low
+1135,Quesadillas With Pico De Gallo,135060,Lunch,0,0,0,cash,low
+1135,Garlic Soup,135060,Lunch,0,0,0,cash,low
+1135,Easy Baked Pork Chops With Gravy and Rice,135060,Lunch,0,0,0,cash,low
+1135,Versatile Minced Pork Recipe(Crock Pot or Fry Pan)),135060,Lunch,0,0,0,cash,low
+1135,Chicken Burgers ala Presto Pesto,135060,Lunch,0,0,0,cash,low
+1135,Sandie Lefever's Spinach Salad,135060,Lunch,0,0,0,cash,low
+1135,Chicken Kiev,135060,Lunch,0,0,0,cash,low
+1135,Snow Peas and Chicken,135060,Lunch,0,0,0,cash,low
+1135,Beef Steak Wrap with Spicy Pineapple Salsa,135060,Lunch,0,0,0,cash,low
+1135,Quick Homemade Tomato Soup,135060,Lunch,0,0,0,cash,low
+1135,Brandee's Chicken Wraps,135060,Lunch,0,0,0,cash,low
+1135,Pepperoni Pizza Pasta,135060,Lunch,0,0,0,cash,low
+1135,Linguine with Chicken and Peanut Sauce,135060,Lunch,0,0,0,cash,low
+1135,Lemon Chicken Cutlets,135060,Lunch,0,0,0,cash,low
+1135,Shrimp Ramekins,135060,Lunch,0,0,0,cash,low
+1135,Turkey Quesadillas,135060,Lunch,0,0,0,cash,low
+1135,Crunchy Ranch Chicken Fingers,135060,Lunch,0,0,0,cash,low
+1135,Tomato Sandwich from Italy,135060,Lunch,0,0,0,cash,low
+1135,Grilled Vegetable Salad,135060,Lunch,0,0,0,cash,low
+1135,Green Bean &amp; Jerusalem Artichoke Saute,135060,Lunch,0,0,0,cash,low
+1135,Mo's Meatloaf,135060,Lunch,0,0,0,cash,low
+1135,Daddy's Kettle Corn,135060,Lunch,0,0,0,cash,low
+1135,Tomatoes with Anchovies & Basil,135060,Lunch,0,0,0,cash,low
+1135,Weeknight Spaghetti Pie,135060,Lunch,0,0,0,cash,low
+1135,Sorrel Bisque,135060,Lunch,0,0,0,cash,low
+1135,Bill's Sunday Night Pasta,135060,Lunch,0,0,0,cash,low
+1135,Asparagus Soup,135060,Lunch,0,0,0,cash,low
+1135,Chicken Salad with Chevre Toasts,135060,Lunch,0,0,0,cash,low
+1135,Chicken Burgers with Lemon,135060,Lunch,0,0,0,cash,low
+1135,Ora Dean's Marinated Cabbage Coleslaw,135060,Lunch,0,0,0,cash,low
+1135,Homemade Honey Mustard,135060,Lunch,0,0,0,cash,low
+1135,Crispy crackers,135060,Lunch,0,0,0,cash,low
+1135,7 Layer Fiesta Dip,135060,Lunch,0,0,0,cash,low
+1135,Cherry Peppers Stuffed With Feta,135060,Lunch,0,0,0,cash,low
+1135,Chili Crabs,135060,Lunch,0,0,0,cash,low
+1135,Empanadas,135060,Lunch,0,0,0,cash,low
+1135,Festival Refried Beans,135060,Lunch,0,0,0,cash,low
+1135,Salmon Fillet,135060,Lunch,0,0,0,cash,low
+1135,Fagioli Al Fiasco (Beans Cooked in a Flask),135060,Lunch,0,0,0,cash,low
+1135,Italian Relish,135060,Lunch,0,0,0,cash,low
+1135,Broccoli &amp; Garlic Pasta for One,135060,Lunch,0,0,0,cash,low
+1135,Almond Toffee Popcorn,135060,Lunch,0,0,0,cash,low
+1135,Baked Olives,135060,Lunch,0,0,0,cash,low
+1135,Tortilla Casserole,135060,Lunch,0,0,0,cash,low
+1135,Rice Verde for One or Two,135060,Lunch,0,0,0,cash,low
+1135,Miso Shiru Soup,135060,Lunch,0,0,0,cash,low
+1135,Stuffed Italian Sandwich,135060,Lunch,0,0,0,cash,low
+1135,Roasted Carrots and Brussels Sprouts,135060,Lunch,0,0,0,cash,low
+1135,Cheesy Au Gratin Potatoes,135060,Lunch,0,0,0,cash,low
+1135,Sugar-And-Spice Nuts,135060,Lunch,0,0,0,cash,low
+1135,Chitranna,135060,Lunch,0,0,0,cash,low
+1135,Make your own Mexican Pizza,135060,Lunch,0,0,0,cash,low
+1135,Boiled Peanuts,135060,Lunch,0,0,0,cash,low
+1135,Pickled Black-Eyed Peas,135060,Lunch,0,0,0,cash,low
+1135,Jamaican Beef Patties,135060,Lunch,0,0,0,cash,low
+1135,Jalapeno Pepper Stuffed Cherry Peppers,135060,Lunch,0,0,0,cash,low
+1135,Potato And Cauliflower Sour Vegetable,135060,Lunch,0,0,0,cash,low
+1135,"Danish ""Frikadeller"" Meat Patties",135060,Lunch,0,0,0,cash,low
+1135,Southwestern Chicken Wraps,135060,Lunch,0,0,0,cash,low
+1135,Buffalo Chicken Wings,135060,Lunch,0,0,0,cash,low
+1135,Easy Chilli Beans,135060,Lunch,0,0,0,cash,low
+1135,Pan Fried Oysters,135060,Lunch,0,0,0,cash,low
+1135,Creamed Oysters & Mushrooms on Toast,135060,Lunch,0,0,0,cash,low
+1135,Stir Fried Oysters with Garlic,135060,Lunch,0,0,0,cash,low
+1135,Mussels with Garlic & White Wine,135060,Lunch,0,0,0,cash,low
+1135,Salmon Pizza,135060,Lunch,0,0,0,cash,low
+1135,Classic Minestrone,135060,Lunch,0,0,0,cash,low
+1135,Rumtopf,135060,Lunch,0,0,0,cash,low
+1135,Fried Okra,135060,Lunch,0,0,0,cash,low
+1135,Cream of Chicken & Watercress Soup,135060,Lunch,0,0,0,cash,low
+1135,"Real Mashed Potatoes (A.k.a, the Ultimate Comort Food)",135060,Lunch,0,0,0,cash,low
+1135,Sweet Pickled Eggs,135060,Lunch,0,0,0,cash,low
+1135,Pickled Eggs Made Simple,135060,Lunch,0,0,0,cash,low
+1135,Pickled Peppered Eggs,135060,Lunch,0,0,0,cash,low
+1135,Sirloin Sandwich Deluxe,135060,Lunch,0,0,0,cash,low
+1004,Mushroom Beef Soup,135028,Lunch,2,2,2,cash,medium
+1004,French Onion Soup With Browned Garlic,135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,Curried Wild Rice Soup,135028,Lunch,2,2,2,cash,medium
+1004,The Wise Tomato (Sage that is!),135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,"Pasta, onions and peppers.",135028,Lunch,2,2,2,cash,medium
+1004,Moong Sabzi (Lentil Vegetable Mix),135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,Meatballs and Sauce,135028,Lunch,2,2,2,cash,medium
+1004,Stromboli,135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,Acorn Squash Stuffed Chicken Breasts,135028,Lunch,2,2,2,cash,medium
+1004,Berry Good Chicken,135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,Parmesan Thins,135028,Lunch,2,2,2,cash,medium
+1004,Spinach Timbales With Spicy Pear Sauce,135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,Mixed Vegetable Salad,135028,Lunch,2,2,2,cash,medium
+1004,Mushroom Puffs,135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,Arepas De Queso Fritas,135028,Lunch,2,2,2,cash,medium
+1004,Leek Fritters,135028,Lunch,2,2,2,bank_debit_cards,medium
+1004,Tequenos,135028,Lunch,2,2,2,cash,medium
+1004,Crispy Fried Mashed Potatoes,135028,Lunch,2,2,2,bank_debit_cards,medium
+1033,Pasta With Spicy Chicken Livers,135028,Lunch,2,1,1,cash,low
+1055,Vegetables With Pesto and Parmesan Thins,135028,Lunch,2,2,2,cash,medium
+1059,Spicy Ginger / Orange Chicken,135028,Lunch,1,1,1,cash,medium
+1071,Best Ever Italian-Style Meatloaf,135028,Lunch,2,2,2,cash,high
+1081,Caramel Pretzels and Nuts,135028,Lunch,1,2,2,cash,low
+1089,"Rice, Spinach and Spicy Chickpeas",135028,Lunch,1,1,1,cash,low
+1106,Dill Pickles,135028,Lunch,2,1,0,bank_debit_cards,medium
+1106,Yaprach (Stuffed Grape Leaves),135028,Lunch,2,1,0,cash,medium
+1108,Pasticho of Eggplant (Aubergine) (Venezuela),135028,Lunch,1,1,1,VISA,medium
+1108,Apple Pork Chops,135028,Lunch,1,1,1,cash,medium
+1108,Oriental Seafood Stir-Fry,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Shrimp with Garlic and Tomatoes,135028,Lunch,1,1,1,VISA,medium
+1108,Yummy Corn,135028,Lunch,1,1,1,cash,medium
+1108,Sauteed Scallops with Mustard,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Frog's Legs,135028,Lunch,1,1,1,VISA,medium
+1108,"Tostones, or Fried Banana. (Venezuela)",135028,Lunch,1,1,1,cash,medium
+1108,Simple Onion Pie,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Quick Chicken Sandwiches,135028,Lunch,1,1,1,VISA,medium
+1108,Pasta with Jalapeno Pesto,135028,Lunch,1,1,1,cash,medium
+1108,Butternut Squash with Onions and Pecans,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,"Scrambled Eggs, Not Runny, Not Watery, Hard Scrambled Eggs",135028,Lunch,1,1,1,VISA,medium
+1108,Mussels in White Wine and Garlic,135028,Lunch,1,1,1,cash,medium
+1108,Shrimp in a Pickle,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,BBQ Beef Sandwiches - Crock Pot,135028,Lunch,1,1,1,VISA,medium
+1108,Reuben Sandwich,135028,Lunch,1,1,1,cash,medium
+1108,Parmesan Potato Soup,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Garden Vegetable Pie,135028,Lunch,1,1,1,VISA,medium
+1108,Crazy Good Dishwasher Salmon,135028,Lunch,1,1,1,cash,medium
+1108,Stuffed Celery,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Calico Coleslaw,135028,Lunch,1,1,1,VISA,medium
+1108,Spinach and Mushroom Salad,135028,Lunch,1,1,1,cash,medium
+1108,Harvest Pumpkin Soup,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,The Famous Pool Room Coleslaw Burgers,135028,Lunch,1,1,1,VISA,medium
+1108,Mom's Quick Tuna,135028,Lunch,1,1,1,cash,medium
+1108,Greek-Style Turkey Burgers,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Charishma's Amazing Chole Delight!!,135028,Lunch,1,1,1,VISA,medium
+1108,Sliced Potatoes with Bacon and Parsley,135028,Lunch,1,1,1,cash,medium
+1108,Honey Glazed Carrots,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Lemon Chicken,135028,Lunch,1,1,1,VISA,medium
+1108,Spicy Chicken Sandwich,135028,Lunch,1,1,1,cash,medium
+1108,Chinese Pot Stickers,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Smoked Salmon Canapes,135028,Lunch,1,1,1,VISA,medium
+1108,Pickled Hot Peppers,135028,Lunch,1,1,1,cash,medium
+1108,Ham and Cheese Quiche,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Red Snapper for Two,135028,Lunch,1,1,1,VISA,medium
+1108,Creamed Salmon,135028,Lunch,1,1,1,cash,medium
+1108,Five Layer Dinner,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Deep Fried Tofu with Peanut Sauce,135028,Lunch,1,1,1,VISA,medium
+1108,Tuna Rolls for Two,135028,Lunch,1,1,1,cash,medium
+1108,Tossed Romaine and Orange Salad,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Green Beans with Hazelnuts and Lemon,135028,Lunch,1,1,1,VISA,medium
+1108,Louise's Old Ranch Sea Salad,135028,Lunch,1,1,1,cash,medium
+1108,Baby-Boomer Tuna Casserole,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,"Spinach, Shrimp and Pasta Salad",135028,Lunch,1,1,1,VISA,medium
+1108,Cabbage and Potato Soup (Caldo Verde),135028,Lunch,1,1,1,cash,medium
+1108,Beef Salad,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Mom's Shawerma,135028,Lunch,1,1,1,VISA,medium
+1108,Oriental Beef and Couscous,135028,Lunch,1,1,1,cash,medium
+1108,Baked chicken packets,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1108,Cheesy Swiss Onion Soup,135028,Lunch,1,1,1,VISA,medium
+1108,Chicken with Bamba,135028,Lunch,1,1,1,cash,medium
+1108,Honey Pecan Chicken Cutlets,135028,Lunch,1,1,1,MasterCard-Eurocard,medium
+1109,Hearty Beef and Barley Soup With Root Vegetables,135028,Lunch,2,2,2,cash,low
+1132,Green Salad,135028,Lunch,2,2,2,cash,high
+1135,"Tofu ""fish"" sticks and sauce",135028,Lunch,0,0,0,cash,low
+1135,Stoemp With Caramelized Shallots,135028,Lunch,0,0,0,cash,low
+1135,Greek Style Zucchini Croquettes,135028,Lunch,0,0,0,cash,low
+1135,"Salad Frisee with Endive, Canadian Bacon, & Croutons",135028,Lunch,0,0,0,cash,low
+1135,Pumpkin Salad (Tirshi),135028,Lunch,0,0,0,cash,low
+1135,Warm Ziti Salad with Balsamic Vinaigrette,135028,Lunch,0,0,0,cash,low
+1135,Shrimp Saute,135028,Lunch,0,0,0,cash,low
+1135,Moules Et Frites  (Mussels and Fries),135028,Lunch,0,0,0,cash,low
+1135,Roasted Harvest Vegetables in a Baked Pumpkin,135028,Lunch,0,0,0,cash,low
+1135,Chicken in Mustard Sauce,135028,Lunch,0,0,0,cash,low
+1135,Mussels With Curry Cream Sauce,135028,Lunch,0,0,0,cash,low
+1135,Sweet Stuffed Pumpkins,135028,Lunch,0,0,0,cash,low
+1135,Garlic Rice with Pine Nuts,135028,Lunch,0,0,0,cash,low
+1135,Homemade Low Calorie Potato Chips,135028,Lunch,0,0,0,cash,low
+1135,Sweet Cauliflower Soup,135028,Lunch,0,0,0,cash,low
+1135,Buckwheat Noodles with Mushroom Sauce,135028,Lunch,0,0,0,cash,low
+1135,Quick Chicken &amp; Black Bean Quesadillas,135028,Lunch,0,0,0,cash,low
+1135,Philippine Empanadas Filling,135028,Lunch,0,0,0,cash,low
+1135,Murag on Mondays,135028,Lunch,0,0,0,cash,low
+1135,Roasted Pumpkin Seeds,135028,Lunch,0,0,0,cash,low
+1135,Martha Stewart's Pumpkin Soup in a Pumpkin,135028,Lunch,0,0,0,cash,low
+1135,Baked Pumpkins with Wild Rice Stuffing,135028,Lunch,0,0,0,cash,low
+1135,Super Bowl Sunday Sandwich,135028,Lunch,0,0,0,cash,low
+1135,The Ultimate Grilled Cheese,135028,Lunch,0,0,0,cash,low
+1135,Antipasto with Anchovies,135028,Lunch,0,0,0,cash,low
+1135,Vegetarian Lasagna Loaf,135028,Lunch,0,0,0,cash,low
+1135,Rich French Onion Soup,135028,Lunch,0,0,0,cash,low
+1135,Mushroom Puffs,135028,Lunch,0,0,0,cash,low
+1135,Turkey With Mushroom Sauce,135028,Lunch,0,0,0,cash,low
+1135,Stuffed Acorn Squash Supreme,135028,Lunch,0,0,0,cash,low
+1135,Baking Stone Fries,135028,Lunch,0,0,0,cash,low
+1135,Hot Stuffed Cherry Peppers,135028,Lunch,0,0,0,cash,low
+1135,Meatloaf Shepherd's Pie,135028,Lunch,0,0,0,cash,low
+1135,Chicken in the chips,135028,Lunch,0,0,0,cash,low
+1135,Spinach Deviled Eggs,135028,Lunch,0,0,0,cash,low
+1135,Colorful Chicken Croissants,135028,Lunch,0,0,0,cash,low
+1135,Mexican Manicotti,135028,Lunch,0,0,0,cash,low
+1135,Louisiana Chicken,135028,Lunch,0,0,0,cash,low
+1135,Club Sandwich Salad,135028,Lunch,0,0,0,cash,low
+1135,Colorful Chicken Casserole,135028,Lunch,0,0,0,cash,low
+1135,Lake Worth Pork Chops,135028,Lunch,0,0,0,cash,low
+1135,Creamy Tomato Soup,135028,Lunch,0,0,0,cash,low
+1135,Quick Minestrone Soup,135028,Lunch,0,0,0,cash,low
+1135,Sauerkraut Balls,135028,Lunch,0,0,0,cash,low
+1135,Ham Roll-Ups,135028,Lunch,0,0,0,cash,low
+1135,Betty White's Chicken Wings,135028,Lunch,0,0,0,cash,low
+1135,Billy Ray Cyrus's Cheesecake Fruit Dip,135028,Lunch,0,0,0,cash,low
+1135,Adam West's Super Bowl Dumplings,135028,Lunch,0,0,0,cash,low
+1135,Hot ham Hero,135028,Lunch,0,0,0,cash,low
+1135,Party Meatballs,135028,Lunch,0,0,0,cash,low
+1135,Super Easy Crock Pot Plum Roast,135028,Lunch,0,0,0,cash,low
+1135,Dom Deluise King Crab Cakes,135028,Lunch,0,0,0,cash,low
+1135,Quick Chicken Cordon Bleu,135028,Lunch,0,0,0,cash,low
+1135,Chicken Nut Puffs,135028,Lunch,0,0,0,cash,low
+1135,"Turkey, Wild Rice and Cranberry Salad",135028,Lunch,0,0,0,cash,low
+1135,Poached Salmon with Pine Nuts and Sun-Dried Tomatoes,135028,Lunch,0,0,0,cash,low
+1135,Harvest Salad,135028,Lunch,0,0,0,cash,low
+1135,Seasoned Oyster Crackers,135028,Lunch,0,0,0,cash,low
+1135,Garlic Lover's Chicken,135028,Lunch,0,0,0,cash,low
+1135,Italian Chicken Salad,135028,Lunch,0,0,0,cash,low
+1135,BBQ Brisket,135028,Lunch,0,0,0,cash,low
+1135,Chicken Broth with Pasta,135028,Lunch,0,0,0,cash,low
+1135,Pumpkin Soup,135028,Lunch,0,0,0,cash,low
+1135,Italian Shredded Beef Sandwiches,135028,Lunch,0,0,0,cash,low
+1135,Potato Cheese Soup,135028,Lunch,0,0,0,cash,low
+1135,Fruit Salad,135028,Lunch,0,0,0,cash,low
+1135,Creamy Tomato Pasta Sauce,135028,Lunch,0,0,0,cash,low
+1135,Pollo Rio Negro (Marinated Chicken),135028,Lunch,0,0,0,cash,low
+1135,Jalape&ntilde;o Stars,135028,Lunch,0,0,0,cash,low
+1135,Curry Pickles,135028,Lunch,0,0,0,cash,low
+1135,White Castle Cheeseburgers,135028,Lunch,0,0,0,cash,low
+1135,Greek Pasta Dinner,135028,Lunch,0,0,0,cash,low
+1135,Jambalaya Salad,135028,Lunch,0,0,0,cash,low
+1135,Marinated Lentil Salad,135028,Lunch,0,0,0,cash,low
+1135,Veggie Stuffed Twice Baked Potatoes,135028,Lunch,0,0,0,cash,low
+1135,Cheesy Seafood Muffies,135028,Lunch,0,0,0,cash,low
+1135,Time/Life Swedish Meatballs,135028,Lunch,0,0,0,cash,low
+1135,Bruschetta,135028,Lunch,0,0,0,cash,low
+1135,Smoked Salmon - Pickled,135028,Lunch,0,0,0,cash,low
+1135,"Wonton, Steamed or Deep Fried",135028,Lunch,0,0,0,cash,low
+1135,Hot Crab Dip,135028,Lunch,0,0,0,cash,low
+1135,Slam Dunk Crab Dip,135028,Lunch,0,0,0,cash,low
+1135,Crillo De Pollo,135028,Lunch,0,0,0,cash,low
+1135,Farofa(Toasted Manioc Meal),135028,Lunch,0,0,0,cash,low
+1135,Feijoada(Brazilian Black Beans),135028,Lunch,0,0,0,cash,low
+1135,Arroz(Brazilian Style Rice),135028,Lunch,0,0,0,cash,low
+1135,Empadinhas (Brazilian Shrimp Pies),135028,Lunch,0,0,0,cash,low
+1135,Potatoes in Green Beans,135028,Lunch,0,0,0,cash,low
+1135,Waldorf Chicken,135028,Lunch,0,0,0,cash,low
+1135,Skewered Korean Chicken and Green Onions,135028,Lunch,0,0,0,cash,low
+1135,Persian Kebabs,135028,Lunch,0,0,0,cash,low
+1135,Stuffed Grape Leaves (persian),135028,Lunch,0,0,0,cash,low
+1135,Oven Parmesan Chips,135028,Lunch,0,0,0,cash,low
+1135,Cook Off Winner Crockery Style Chili,135028,Lunch,0,0,0,cash,low
+1135,Koofteh Tabrizi (herbed Meat & Rice Balls),135028,Lunch,0,0,0,cash,low
+1135,Ashe Reshte (noodle Soup),135028,Lunch,0,0,0,cash,low
+1135,Chelo (persian Steamed Rice),135028,Lunch,0,0,0,cash,low
+1135,Zardalu Polo - Persian Lamb and Apricot Pilaf,135028,Lunch,0,0,0,cash,low
+1135,Aash-e Aab Leemoo,135028,Lunch,0,0,0,cash,low
+1135,Persian Chicken Pilaf,135028,Lunch,0,0,0,cash,low
+1135,Sushi Rolls,135028,Lunch,0,0,0,cash,low
+1135,Best Raw-Broccoli Salad,135028,Lunch,0,0,0,cash,low
+1135,Potato Soup,135028,Lunch,0,0,0,cash,low
+1136,Pork Cacciatore,135028,Lunch,2,2,2,cash,low
+1004,Crab and Shrimp Saute - Louisiana Style,135032,Lunch,2,2,2,cash,medium
+1004,Karelian Hot Pot,135032,Lunch,2,2,2,cash,medium
+1004,Black Beans and Tomatoes - Hot and Spicy,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Salmon Croquettes (Spiced Up),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Easy Salmon Pasta,135032,Lunch,2,2,2,cash,medium
+1004,Cheese-and-herbs stuffed salmon,135032,Lunch,2,2,2,cash,medium
+1004,Fish soup a la Kainuu,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Elvis's Fried Dill Pickles,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Chicken or Pork Adobo,135032,Lunch,2,2,2,cash,medium
+1004,Lumpia (philippine Egg Rolls from Scratch),135032,Lunch,2,2,2,cash,medium
+1004,PAKSIW NA ISDA (Boiled Pickled Fish and Vegetables),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,TRADITIONAL ADOBO (Pork in Vinegar and Soy Sauce),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Lentil Bolognese Sauce,135032,Lunch,2,2,2,cash,medium
+1004,"Chickpea, Avocado and Sun-Dried Tomato Salad",135032,Lunch,2,2,2,cash,medium
+1004,SOUR CUCUMBER SOUP (Zupa Ogorkowa),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,POLISH SAUSAGE IN TOMATO SAUCE (Kielbasa w Sosie Pomidorowym),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Meatloaf Stuffed With Eggs (Klopsy),135032,Lunch,2,2,2,cash,medium
+1004,DILL SOUP (Zupa Koperkowa),135032,Lunch,2,2,2,cash,medium
+1004,Toasted Swiss & Ham Sandwich,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,SAUERKRAUT SOUP (Kapusniak),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Light Orange-Roasted Salmon,135032,Lunch,2,2,2,cash,medium
+1004,Caramel Apple Dip,135032,Lunch,2,2,2,cash,medium
+1004,Boiled Red Snapper (Domi Chim),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Roasted Bread Salad,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Beef Stroganoff Sandwich,135032,Lunch,2,2,2,cash,medium
+1004,Seasoned Broiled Fish (Saengsun Yangyumchang Koo-ee),135032,Lunch,2,2,2,cash,medium
+1004,Spicy Potato Soup,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,POLISH SOUR RYE SOUP (Zurek Polski),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Beef and Egg Sandwich,135032,Lunch,2,2,2,cash,medium
+1004,Baked Olive Bundles,135032,Lunch,2,2,2,cash,medium
+1004,Deep Dish Ham Pie,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Chicken Ball,135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Coquilles St Jacques a La Provencale - Scallops With Garlic,135032,Lunch,2,2,2,cash,medium
+1004,Rib Soup (Kalbi Tang),135032,Lunch,2,2,2,cash,medium
+1004,BEETROOT SOUP (Barszcz),135032,Lunch,2,2,2,bank_debit_cards,medium
+1004,Baked Sweet Potato Fries,135032,Lunch,2,2,2,bank_debit_cards,medium
+1005,Tomato Pie,135032,Lunch,2,1,2,cash,medium
+1005,Spaghetti Torte,135032,Lunch,2,1,2,cash,medium
+1007,Crock Pot Beef Barbecue,135032,Lunch,1,1,0,cash,low
+1007,Beef Ribs BBQ (Sokalbi Koo-ee),135032,Lunch,1,1,0,cash,low
+1016,Mirj's Hungarian/Thai Salmon,135032,Lunch,2,2,2,cash,medium
+1016,Crock Pot Sloppy Joe Mix,135032,Lunch,2,2,2,cash,medium
+1016,Lemon Asparagus,135032,Lunch,2,2,2,cash,medium
+1016,Stuffed Tomato Flowers,135032,Lunch,2,2,2,cash,medium
+1016,Fried Cinnamon-Sugar Sweet Potatoes,135032,Lunch,2,2,2,cash,medium
+1016,Fruit and Turkey Salad with Cranberry Dressing,135032,Lunch,2,2,2,cash,medium
+1016,Cumin Meatballs,135032,Lunch,2,2,2,cash,medium
+1016,Hoppin' Jalapenos,135032,Lunch,2,2,2,cash,medium
+1016,Angel Hair Pasta With Creamy Pesto,135032,Lunch,2,2,2,cash,medium
+1016,Red Snapper Baked with Orange,135032,Lunch,2,2,2,cash,medium
+1016,Meatballs,135032,Lunch,2,2,2,cash,medium
+1016,Cabbage Rolls,135032,Lunch,2,2,2,cash,medium
+1016,Hot & Sour Shrimp,135032,Lunch,2,2,2,cash,medium
+1016,Stir-Fry Beef and Cashew Nuts,135032,Lunch,2,2,2,cash,medium
+1016,"Rice, Mushroom and Cheese Croquettes",135032,Lunch,2,2,2,cash,medium
+1016,Sloppy Joe Mix,135032,Lunch,2,2,2,cash,medium
+1016,Chinese Steamed Dumplings with Dipping Sauce,135032,Lunch,2,2,2,cash,medium
+1016,Spicy Chickpeas,135032,Lunch,2,2,2,cash,medium
+1016,Moroccan Lentil Soup,135032,Lunch,2,2,2,cash,medium
+1016,Fig and Lemon Chicken,135032,Lunch,2,2,2,cash,medium
+1016,Chicken with Roasted Red Peppers,135032,Lunch,2,2,2,cash,medium
+1016,Lox Mousse,135032,Lunch,2,2,2,cash,medium
+1016,Muffuletta Pizza,135032,Lunch,2,2,2,cash,medium
+1016,Bulgogi (Korean Barbecued Beef) Lettuce Wraps,135032,Lunch,2,2,2,cash,medium
+1016,Quick Quesadillas,135032,Lunch,2,2,2,cash,medium
+1016,Extra Special Tuna Sandwiches,135032,Lunch,2,2,2,cash,medium
+1016,Italian Sausage And Pepper Heroes,135032,Lunch,2,2,2,cash,medium
+1016,Creamy Pesto Shrimp,135032,Lunch,2,2,2,cash,medium
+1018,Alla Checca,135032,Lunch,1,1,1,cash,low
+1018,Salmon Mousse (Egg Sauce Optional),135032,Lunch,1,1,1,cash,low
+1022,Baked Fish (Pescado Asado),135032,Lunch,1,1,2,cash,medium
+1022,Steak with Onions (Bistec Encebollado),135032,Lunch,1,1,2,cash,medium
+1032,Chicken & rice (Arroz con pollo),135032,Lunch,0,0,0,cash,medium
+1032,Roast Pork (Lechon Asado),135032,Lunch,0,0,0,cash,medium
+1045,Fried Pork (Masas de Puerco Fritas),135032,Lunch,0,0,0,cash,high
+1045,Beef Turnovers (Empanadas),135032,Lunch,0,0,0,cash,high
+1045,Ground Beef (Picadillo),135032,Lunch,0,0,0,cash,high
+1045,Ginseng Chicken with Glutinous Rice (Samkye Tang),135032,Lunch,0,0,0,cash,high
+1045,Chocolate Cheese Ball,135032,Lunch,0,0,0,cash,high
+1045,Pancakes (Crepes) Filled With Mushrooms (Filling Only),135032,Lunch,0,0,0,cash,high
+1045,Grandma's Homemade Macaroni and Cheese,135032,Lunch,0,0,0,cash,high
+1045,Crepes (For a Savoury Filling),135032,Lunch,0,0,0,cash,high
+1049,Pancakes (Crepes) Filled With Spinach (Filling Only),135032,Lunch,0,0,0,cash,high
+1049,Fiery Turkey-Pate Crostini,135032,Lunch,0,0,0,cash,high
+1053,Spicy Cajun Tamales,135032,Lunch,2,2,1,cash,low
+1053,Tofu Dip,135032,Lunch,2,2,1,cash,low
+1054,Wildfire Horseradish Crusted Pork Chops,135032,Lunch,1,1,1,cash,medium
+1054,Clams Casino,135032,Lunch,1,1,1,cash,medium
+1071,Belgian Meatballs Braised in Beer,135032,Lunch,2,2,2,cash,high
+1071,Fried Fish Balls from Brussels,135032,Lunch,2,2,2,cash,high
+1075,Flemish-Style Pork Chops,135032,Lunch,1,1,1,cash,medium
+1075,Roasted Garlic Butter,135032,Lunch,1,1,1,cash,medium
+1081,Szechuan Pork,135032,Lunch,0,1,1,cash,low
+1081,Lobster Ganda,135032,Lunch,0,1,1,cash,low
+1098,Jalapeno Poppers,135032,Lunch,2,1,1,cash,medium
+1098,Noodles with Creamed Broccoli Sauce,135032,Lunch,2,1,1,cash,medium
+1101,Portabella Pizzettas,135032,Lunch,2,2,1,cash,low
+1101,Cauliflower and Cheese Puff,135032,Lunch,2,2,1,cash,low
+1101,Vegetable - Stuffed Tomato Bites,135032,Lunch,2,2,1,cash,low
+1101,California Onion Dip,135032,Lunch,2,2,1,cash,low
+1101,Nacho Potato Skins,135032,Lunch,2,2,1,cash,low
+1101,Tofu Stuffed Zucchini,135032,Lunch,2,2,1,cash,low
+1101,Vegetarian Stuffed Eggplant (Aubergine),135032,Lunch,2,2,1,cash,low
+1101,Mixed Rice Dish (Bibim Bap),135032,Lunch,2,2,1,cash,low
+1101,"Spicy Low fat, New Potatoes",135032,Lunch,2,2,1,cash,low
+1101,Crisp Beef,135032,Lunch,2,2,1,cash,low
+1101,Bahmi Goreng (fried Noodles),135032,Lunch,2,2,1,cash,low
+1101,Potatonik,135032,Lunch,2,2,1,cash,low
+1101,Chicken Roulade Appetizers,135032,Lunch,2,2,1,cash,low
+1101,Polevka S Jatrovymi Knedlicky (Soup With Beef Liver Dumplings),135032,Lunch,2,2,1,cash,low
+1101,"Special Calf Liver With Onions, Mushrooms &amp; Sour Cream",135032,Lunch,2,2,1,cash,low
+1101,Oven Potatoes Tray (Saniat Patates Ba El-Lahma Fi Al-Forn),135032,Lunch,2,2,1,cash,low
+1101,Gin Soup,135032,Lunch,2,2,1,cash,low
+1101,Peanut Butter Popcorn,135032,Lunch,2,2,1,cash,low
+1101,Oven-Dried Tomatoes,135032,Lunch,2,2,1,cash,low
+1101,MAKOVY KOLAC (Poppy-Seed Layer Torte),135032,Lunch,2,2,1,cash,low
+1101,Southwestern Turkey Soup,135032,Lunch,2,2,1,cash,low
+1101,Colorfull fresh salad,135032,Lunch,2,2,1,cash,low
+1101,White Trash,135032,Lunch,2,2,1,cash,low
+1101,Pizza Popcorn,135032,Lunch,2,2,1,cash,low
+1101,Leftover Turkeywich,135032,Lunch,2,2,1,cash,low
+1101,Zucchini and Chile Latkes,135032,Lunch,2,2,1,cash,low
+1101,Dikyet Bamya,135032,Lunch,2,2,1,cash,low
+1101,VEPROVE S KRENEM (Pork w/Horseradish),135032,Lunch,2,2,1,cash,low
+1101,"Green Beans, Black-Eyed Peas Salad",135032,Lunch,2,2,1,cash,low
+1101,PECENY KAPR S KYSELOU OMACKOU (Carp w/ Sour-Cream Sauce),135032,Lunch,2,2,1,cash,low
+1104,Tagen Ros Mo-amar,135032,Lunch,2,1,1,VISA,medium
+1104,Fool Medemmas - Fava Beans,135032,Lunch,2,1,1,VISA,medium
+1104,Yam Latkes with Mustard Seeds and Curry,135032,Lunch,2,1,1,cash,medium
+1104,Meatballs - Slow Cooker/Crock Pot,135032,Lunch,2,1,1,cash,medium
+1106,Feteer Bel Asaag (Pastry With Ground Meat),135032,Lunch,0,0,0,bank_debit_cards,medium
+1106,Different Deviled Eggs,135032,Lunch,0,0,0,bank_debit_cards,medium
+1106,Mustard-Tarragon Burgers,135032,Lunch,0,0,0,cash,medium
+1106,3-Cheese Garden Pizza,135032,Lunch,0,0,0,cash,medium
+1108,Spinach-Shrimp Dip,135032,Lunch,2,1,2,VISA,medium
+1108,Cheese &amp; Olive Bruschetta,135032,Lunch,2,1,2,VISA,medium
+1108,Roasted Pumpkin and Sweet Potato Soup,135032,Lunch,2,1,2,cash,medium
+1108,Drstkova Polevka  (Tripe Soup),135032,Lunch,2,1,2,cash,medium
+1108,Annie's Turkey Salad,135032,Lunch,2,1,2,MasterCard-Eurocard,medium
+1108,TELECI KYTA S VINNOU OMACKOU (Leg of Veal with Wine Sauce),135032,Lunch,2,1,2,MasterCard-Eurocard,medium
+1108,"Kosa Mahshiya ? Zucchini, Stuffed",135032,Lunch,2,1,2,VISA,medium
+1108,Eggplant (Aubergine),135032,Lunch,2,1,2,VISA,medium
+1108,Pasta Mexicali,135032,Lunch,2,1,2,cash,medium
+1108,Baked Chicken Italiano,135032,Lunch,2,1,2,cash,medium
+1108,Bamia (Beef & Okra Casserole),135032,Lunch,2,1,2,MasterCard-Eurocard,medium
+1108,Shurit Ads (Lentil &amp; Garlic Soup),135032,Lunch,2,1,2,MasterCard-Eurocard,medium
+1108,Bissara,135032,Lunch,2,1,2,VISA,medium
+1108,Cheesy Golden Rice,135032,Lunch,2,1,2,VISA,medium
+1108,Spicy Shrimp With Green Beans &amp; Red Pepper,135032,Lunch,2,1,2,cash,medium
+1108,Mixed Vegetable Salad with Peanut Sauce (Gado-Gado),135032,Lunch,2,1,2,cash,medium
+1108,Baked Fish with Spices,135032,Lunch,2,1,2,MasterCard-Eurocard,medium
+1108,Ancient Egyptian Melokhia Soup,135032,Lunch,2,1,2,MasterCard-Eurocard,medium
+1108,M&M's Holiday Poppers,135032,Lunch,2,1,2,VISA,medium
+1108,Magic Minestrone,135032,Lunch,2,1,2,VISA,medium
+1108,Hard tacos or tostadas,135032,Dinner,2,1,2,cash,medium
+1108,Huevos rancheros,135032,Dinner,2,1,2,cash,medium
+1108,Stir fry,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Burritos,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Fajitas,135032,Dinner,2,1,2,VISA,medium
+1108,Burgers or hotdogs,135032,Dinner,2,1,2,VISA,medium
+1108,Quesadillas ,135032,Dinner,2,1,2,cash,medium
+1108,Meatballs and rice,135032,Dinner,2,1,2,cash,medium
+1108,KFC bowls,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Sloppy Joes,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Chicken and rice,135032,Dinner,2,1,2,VISA,medium
+1108,Pulled BBQ chicken ,135032,Dinner,2,1,2,VISA,medium
+1108,Pot roast ,135032,Dinner,2,1,2,cash,medium
+1108,Crockpot salsa chicken ,135032,Dinner,2,1,2,cash,medium
+1108,Ribs ,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,French dip sandwiches ,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Homemade pizza,135032,Dinner,2,1,2,VISA,medium
+1108,Twice-baked potatoes,135032,Dinner,2,1,2,VISA,medium
+1108,Chicken pot pie ,135032,Dinner,2,1,2,cash,medium
+1108,Homemade corn dogs,135032,Dinner,2,1,2,cash,medium
+1108,Shepherd's pie,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Calzones,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,French bread pizza,135032,Dinner,2,1,2,VISA,medium
+1108,Enchiladas,135032,Dinner,2,1,2,VISA,medium
+1108,Egg rolls,135032,Dinner,2,1,2,cash,medium
+1108,Stuffed green peppers ,135032,Dinner,2,1,2,cash,medium
+1108,Chicken parmesan,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Fried chicken (baked or fried),135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Chicken cordon bleu ,135032,Dinner,2,1,2,VISA,medium
+1108,Breaded chicken ,135032,Dinner,2,1,2,VISA,medium
+1108,Chicken nuggets ,135032,Dinner,2,1,2,cash,medium
+1108,Chicken wings,135032,Dinner,2,1,2,cash,medium
+1108,Cheesy bacon chicken,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Dijon chicken,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Chicken fingers,135032,Dinner,2,1,2,VISA,medium
+1108,Chicken and broccoli casserole,135032,Dinner,2,1,2,VISA,medium
+1108,Orange chicken,135032,Dinner,2,1,2,cash,medium
+1108,Cilantro-lime chicken,135032,Dinner,2,1,2,cash,medium
+1108,Lemon chicken,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Pork chops,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Chimichangas,135032,Dinner,2,1,2,VISA,medium
+1108,Meatloaf,135032,Dinner,2,1,2,VISA,medium
+1108,Meatball subs,135032,Dinner,2,1,2,cash,medium
+1108,Stuffed pork chops,135032,Dinner,2,1,2,cash,medium
+1108,Beef & broccoli,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Ham,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Beef or pork tenderloin,135032,Dinner,2,1,2,VISA,medium
+1108,Salmon,135032,Dinner,2,1,2,VISA,medium
+1108,Salmon patties,135032,Dinner,2,1,2,cash,medium
+1108,Fish sticks ,135032,Dinner,2,1,2,cash,medium
+1108,Fish ‘n chips,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Crab cakes,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Fish tacos,135032,Dinner,2,1,2,VISA,medium
+1108,Smoked salmon bagel,135032,Dinner,2,1,2,VISA,medium
+1108,Taco soup,135032,Dinner,2,1,2,cash,medium
+1108,Minestrone soup,135032,Dinner,2,1,2,cash,medium
+1108,Chicken noodle soup (homemade…serve with grilled cheese),135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Creamy potato soup,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,White chicken chili,135032,Dinner,2,1,2,VISA,medium
+1108,Clam chowder,135032,Dinner,2,1,2,VISA,medium
+1108,Tomato bisque,135032,Dinner,2,1,2,cash,medium
+1108,Italian wedding soup,135032,Dinner,2,1,2,cash,medium
+1108,Chicken enchilada/tortilla soup,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Cheeseburger soup,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Corn chowder ,135032,Dinner,2,1,2,VISA,medium
+1108,Tortellini soup,135032,Dinner,2,1,2,VISA,medium
+1108,French onion soup,135032,Dinner,2,1,2,cash,medium
+1108,Jambalaya,135032,Dinner,2,1,2,cash,medium
+1108,Homemade mac ‘n cheese ,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Lasagna,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Baked ziti,135032,Dinner,2,1,2,VISA,medium
+1108,Fettuccine Alfredo (chicken or shrimp),135032,Dinner,2,1,2,VISA,medium
+1108,Rotini bake,135032,Dinner,2,1,2,cash,medium
+1108,Vegetable lasagna,135032,Dinner,2,1,2,cash,medium
+1108,Lasagna rolls (baked or in crockpot),135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Bolognese sauce and pasta,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Spinach-bacon mac ‘N cheese,135032,Dinner,2,1,2,VISA,medium
+1108,Tomato-bacon pasta,135032,Dinner,2,1,2,VISA,medium
+1108,Stuffed pasta shells,135032,Dinner,2,1,2,cash,medium
+1108,Manicotti,135032,Dinner,2,1,2,cash,medium
+1108,"Spaghetti and meatballs (with homemade spaghetti sauce, of course!)",135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Pesto pasta,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Eggplant parmesan,135032,Dinner,2,1,2,VISA,medium
+1108,Tortellini,135032,Dinner,2,1,2,VISA,medium
+1108,Stroganoff (chicken or beef),135032,Dinner,2,1,2,cash,medium
+1108,Crockpot Alfredo lasagna,135032,Dinner,2,1,2,cash,medium
+1108,Sausage & pepper pasta,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1108,Pad Thai,135032,Dinner,2,1,2,MasterCard-Eurocard,medium
+1109,Bowtie pasta & vegetables,135032,Dinner,2,2,2,cash,low
+1109,Paninis (turkey leftovers are always a fan favorite!),135032,Dinner,2,2,2,cash,low
+1113,BBQ chicken salad,135032,Dinner,0,0,0,VISA,medium
+1113,Grilled cheese sandwiches,135032,Dinner,0,0,0,VISA,medium
+1113,Baked Italian sandwiches,135032,Dinner,0,0,0,cash,medium
+1113,Taco salad,135032,Dinner,0,0,0,cash,medium
+1120,Tostadas,135032,Dinner,1,1,1,cash,low
+1120,Mexican chicken sandwiches,135032,Dinner,1,1,1,cash,low
+1124,Dr Pepper pulled pork sandwiches,135032,Dinner,1,1,1,cash,low
+1124,Cafe Rio pork salads or burritos ,135032,Dinner,1,1,1,cash,low
+1125,Club salad,135032,Dinner,1,2,1,cash,low
+1125,"Grilled chicken (season or marinade with whatever, and grill!)",135032,Dinner,1,2,1,cash,low
+1132,Steak (grilled or broiled),135032,Dinner,1,0,1,cash,low
+1132,Kabobs,135032,Dinner,1,0,1,cash,low
