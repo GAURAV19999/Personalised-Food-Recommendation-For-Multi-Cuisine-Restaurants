@@ -1,6 +1,7 @@
 import pandas as pd 
 import streamlit as st
 import warnings
+from PIL import Image
 warnings.filterwarnings("ignore")
 
 STYLE = """
@@ -17,7 +18,15 @@ def main():
     st.markdown(html_temp, unsafe_allow_html=True)
     st.sidebar.header("About App")
     st.sidebar.info("The owner of the five - star hotel wants to make a recommendation system, which will help food supply chain management to recommend food based on the favourite dishes and popular choice.Recommending food to the Customer based on their preference.Minimize time taken for food Recommendation")
-    #st.title("Personalised-Food-Recommendation-For-Multi-Cuisine-Restaurants")
+    st.sidebar.text("Built with Streamlit")
+    
+    st.sidebar.header("For Any Queries/Suggestions Please reach out at :")
+    st.sidebar.info("gauravkumarvishwakarma@gmail.com")    
+
+    image = Image.open("Project1 logo.jpeg")
+    st.image(image, caption='Food Recommendation System',use_column_width=True)
+
+#st.title("Personalised-Food-Recommendation-For-Multi-Cuisine-Restaurants")
     #st.sidebar("Select a id which you'd like to get the recommdation of food :")
     df = pd.read_csv("userdata.csv")
     df.to_csv("userdata.csv")
