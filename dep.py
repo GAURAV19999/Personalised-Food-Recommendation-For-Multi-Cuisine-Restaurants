@@ -3,7 +3,18 @@ import streamlit as st
 import warnings
 warnings.filterwarnings("ignore")
 
+STYLE = """
+<style>
+img {
+    max-width: 100%;
+}
+</style> """
+
 def main():
+    html_temp = """
+	<div style="background-color:tomato;"><p style="color:white;font-size:40px;padding:9px">Live twitter Sentiment analysis</p></div>
+	"""
+    st.markdown(html_temp, unsafe_allow_html=True)
     st.sidebar.header("About App")
     st.sidebar.info("The owner of the five - star hotel wants to make a recommendation system, which will help food supply chain management to recommend food based on the favourite dishes and popular choice.Recommending food to the Customer based on their preference.Minimize time taken for food Recommendation")
     st.title("Personalised-Food-Recommendation-For-Multi-Cuisine-Restaurants")
