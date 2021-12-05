@@ -4,8 +4,10 @@ import warnings
 warnings.filterwarnings("ignore")
 
 def main():
+    st.sidebar.header("About App")
+    st.sidebar.info("The owner of the five - star hotel wants to make a recommendation system, which will help food supply chain management to recommend food based on the favourite dishes and popular choice.Recommending food to the Customer based on their preference.Minimize time taken for food Recommendation")
     st.title("Personalised-Food-Recommendation-For-Multi-Cuisine-Restaurants")
-    st.sidebar("Select a id which you'd like to get the recommdation of food :")
+    #st.sidebar("Select a id which you'd like to get the recommdation of food :")
     df = pd.read_csv("userdata.csv")
     df.to_csv("userdata.csv")
     s1 = df.UserID.unique()
