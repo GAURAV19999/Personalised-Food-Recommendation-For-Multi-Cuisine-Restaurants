@@ -4,7 +4,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 def main():
-    df = pd.read_csv(r"C:\Users\GAURAV KUMAR\Desktop\userdata.csv")
+    df = pd.read_csv("\userdata.csv")
     df.to_csv("userdata.csv")
     s1 = df.UserID.unique()
     s11 = st.sidebar.selectbox('User ID',(s1))
