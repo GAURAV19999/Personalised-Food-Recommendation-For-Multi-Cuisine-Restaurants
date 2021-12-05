@@ -5,7 +5,7 @@ warnings.filterwarnings("ignore")
 
 def main():
     st.title("Personalised-Food-Recommendation-For-Multi-Cuisine-Restaurants")
-    st.subheader("Select a id which you'd like to get the recommdation of food :")
+    st.sidebar("Select a id which you'd like to get the recommdation of food :")
     df = pd.read_csv("userdata.csv")
     df.to_csv("userdata.csv")
     s1 = df.UserID.unique()
