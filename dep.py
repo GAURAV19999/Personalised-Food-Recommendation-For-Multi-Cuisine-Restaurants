@@ -36,5 +36,7 @@ def main():
     df1 = df1.head(20)
     df1 = df1[['UserID','Order','OrderType']]
     return(df1)
-s = main()
-st.dataframe(s)
+if st.button("Exit"):
+	st.balloons()
+	s = main()
+	st.dataframe(s)
